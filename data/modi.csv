@@ -1,0 +1,5 @@
+id,original_text,clean_text,sentiment,polarity,subjectivity,lang,place,place_coord_boundaries
+1235050965855686657,"@abbas_nighat Modi, Shah and Yogi deserve our vote. If any of them is biased against anyone I wouldn’t vote for BJP.",abbas_nighat Modi Shah Yogi deserve vote If biased anyone I vote BJP,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Gurgaon, India","[[73.7829601, 15.3222937], [73.9579574, 15.3222937], [73.9579574, 15.4161978], [73.7829601, 15.4161978]]"
+1235050961032212482,@MimrotReena @Mrs_Modi Ye tweet darsata hai ki ye halala ki pedais hai.,Mimrotrina Mrs_modi this tweet shows that it is a product of Hlala,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,hi,,
+1235050943932256256,@pokershash Modi ne Kiya Sab 😭😭😂😂 https://t.co/rOFh2Drfx7,Pokrshash Modi all,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,hi,Gidwarithoka ,
+1235050932439670784,@narendramodi We love you PM Modi,narendramodi We love PM Modi,"Sentiment(polarity=0.5, subjectivity=0.6)",0.5,0.6,en,,
