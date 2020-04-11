@@ -1,308 +1,272 @@
 id,original_text,clean_text,sentiment,polarity,subjectivity,lang,place,place_coord_boundaries
-1235063485286846465,"@Stranger_Things All I want is for Steve to be okay. 
-If Steve dies, we riot.",Stranger_Things All I want Steve okay If Steve dies riot,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,Iowa,
-1235063373735161856,@__kelllyyy Stranger Things 👍👍,__kelllyyy Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Bellevue, OH",
-1235063351232749569,"prayer circle:
+1249029704390250498,"ayer fue el cumple de mi padre y del que hace de Hopper en Stranger Things, y encima nacieron en el mismo año jaja que loco",was the birthday of my father which makes up Hopper in Stranger Things were born in the same haha ​​that crazy yesterday,"Sentiment(polarity=-0.13333333333333333, subjectivity=0.44166666666666665)",-0.13333333333333333,0.44166666666666665,es,uruguay,
+1249029461716152320,"I’m rewatching stranger things for the 5 time and it’s still great. Some shows you just can watch forever, Comment your Fav Shows!",I rewatching stranger things 5 time still great Some shows watch forever Comment Fav Shows,"Sentiment(polarity=0.8, subjectivity=0.75)",0.8,0.75,en,Universe,
+1249029448445448195,@blueshinesugar udah nonton dong.. eh betewe sebel kalo series yang ending di season satu nggantung ke season 2. ny… https://t.co/2FQjzyjrpl,blueshinesugar already watching dong .. uh betewe resentful if the series ending in season one to season 2. hang ny,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,in,Jakarta,
+1249029433547202562,@LouBeardsley It was so ridiculous that I just couldn’t stomach it anymore. Have you watched ozark and stranger thi… https://t.co/LWdTzOSjH2,LouBeardsley It ridiculous I stomach anymore Have watched ozark stranger thi,"Sentiment(polarity=-0.3333333333333333, subjectivity=1.0)",-0.3333333333333333,1.0,en,"Clifton, England",
+1249029361598107649,"Generell Serien
+•Stranger Things
+•Riverdale
+•Tote Mädchen Lügen nicht
+•Haus des Geldes
+•You - Du wirst mich lieben… https://t.co/WvyrRL9qgD",Generally series Stranger Things Riverdale Dead Girl lies not House of Money You you'll love me,"Sentiment(polarity=0.11666666666666665, subjectivity=0.5)",0.11666666666666665,0.5,de,,
+1249029318837243906,https://t.co/OZ4YbFXqfr,,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,und,,
+1249029299937607681,@deangrl36 For real? He kind of sounds like a jerk. Who was the guy from Stranger Things?,deangrl36 For real He kind sounds like jerk Who guy Stranger Things,"Sentiment(polarity=0.8999999999999999, subjectivity=1.0)",0.8999999999999999,1.0,en,"Hopewell Junction, NY",
+1249029264181166085,https://t.co/81DzLpSa4o,,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,und,,
+1249029100196552705,el hopper (stranger things) https://t.co/qa1mN5UB9w,el hopper stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,she | navi,
+1249029094374809601,lucas sinclair (stranger things) https://t.co/s6mUIsuKNG,lucas sinclair stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,she | navi,
+1249029049575518209,https://t.co/8PyiRj6O9f,,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,und,,
+1249028961679446017,"@moviemenfes Seru kok, gabungan stranger things  + teotfw rate: 8/10",Seru moviemenfes stranger things combined really teotfw rate 8/10,"Sentiment(polarity=0.2, subjectivity=0.2)",0.2,0.2,de,she/her,
+1249028944482967553,"@LVLOFCONCERNVHS This is funny because i am watching stranger things right now
+Steve, robin and erica",LVLOFCONCERNVHS This funny watching stranger things right Steve robin erica,"Sentiment(polarity=0.26785714285714285, subjectivity=0.7678571428571428)",0.26785714285714285,0.7678571428571428,en,"ᴘᴇɴᴇ́ʟᴏᴘᴇ, ᴋᴀʏʟᴀ    sʜᴇ/ʜᴇʀ  ",
+1249028870206099458,"🔗 CORRENTE 🔗
 
-                    🕯      🕯
-           🕯                        🕯
-               will byers comes… https://t.co/PKSWhcpaa3",prayer circle byers comes,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,they,
-1235063325966258177,"@Notgiamatti I fon’t think she will be, but stranger things have happened! Like every 5 minutes, stranger things happen.",Notgiamatti I fon think stranger things happened Like every 5 minutes stranger things happen,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,CT/NYC/PEI/LA,
-1235063265581027328,Stranger Things | La desaparición de Will Byers | Netflix España https://t.co/h8z1xZ7rJ3 via @YouTube,Stranger Things La desaparici n de Will Byers Netflix Espa via YouTube,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ca,Chile,
-1235063245662109696,@Stranger_Things Do we have a rough estimate on when the new season comes out?,Stranger_Things Do rough estimate new season comes,"Sentiment(polarity=0.018181818181818174, subjectivity=0.42727272727272725)",0.018181818181818174,0.42727272727272725,en,"Texas, USA, Houston ",
-1235063217044373504,@Stranger_Things @finnfilms Give me more Finn plz🙏🏻🙏🏻🙏🏻,Stranger_Things finnfilms Give Finn plz,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235063187390615553,@Stranger_Things @finnfilms 😍😍😍👍👍👍👍,Stranger_Things find films,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,und,,
-1235063013247315970,"stranger things season 3 (2019)
-pulp fiction (1994)
-okja (2017) https://t.co/6p8QPAIaap",stranger things season 3 2019 pulp fiction 1994 okja 2017,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235062878798921730,"@warbotxclan Stranger things 
-Hamtaro 
-Insatiable
-Naruto 
-Elite 
+Recomende:
 
-Friends
-OA
-Riverdale 
-El chapo
-Vikingos
-El club 
-Rick y morty",warbotxclan Stranger things Hamtaro Insatiable Naruto Elite Friends OA Riverdale El chapo Vikingos El club Rick morty,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,ꪀꫀꪜꫀ𝕣ꪶꪖꪀᦔ,
-1235062824885309442,please why are stranger things fans already complaining about the new season 😭,please stranger things fans already complaining new season,"Sentiment(polarity=0.13636363636363635, subjectivity=0.45454545454545453)",0.13636363636363635,0.45454545454545453,en,,
-1235062525730816000,@EW That's terrible.   I'm sorry that has happened.    Love you on stranger things.    Great show.  Stay safe,EW That 's terrible I 'm sorry happened Love stranger things Great show Stay safe,"Sentiment(polarity=0.06000000000000001, subjectivity=0.77)",0.06000000000000001,0.77,en,,
-1235062522408919043,@Stranger_Things @Netflix_CA Finn❤️❤️❤️😍😍,Stranger_Things Netflix_CA Find,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,no,,
-1235062517996507139,"ya tengo un deja Vu con stranger things pq no quería llorar pero lo hacía, me secaba las lágrimas y después le poní… https://t.co/kgLLqQ5DNg",and I have a deja vu stranger things pq quer hac mourn but dried her tears after he put l,"Sentiment(polarity=-0.2, subjectivity=0.6)",-0.2,0.6,es,mx,
-1235062430901735426,@Stranger_Things @Netflix_CA Give me more Mike(Finn )plz🙏🏻🙏🏻🙏🏻,Stranger_Things Netflix_CA Give Mike Finn plz,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235062302761766913,@A24SUKI absolutely none. i dont get what people mean when they say plots of movies or tv shows with a teen that ha… https://t.co/d3e9wTeaeE,A24SUKI absolutely none dont get people mean say plots movies tv shows teen ha,"Sentiment(polarity=-0.0375, subjectivity=0.5291666666666667)",-0.0375,0.5291666666666667,en,𝐝 • 𝐬𝐡𝐞/𝐡𝐞𝐫 • 𝟏𝟖,
-1235062297548087297,"💜Stranger Things 
-💜Black Mirror 
-💜Un lobo adolescente 
-💜Glee
-💜RuPaul’s Drag Race
-💜Riverdale",Stranger Things Black Mirror Un lobo adolescente Glee RuPaul Drag Race Riverdale,"Sentiment(polarity=-0.13333333333333333, subjectivity=0.2520833333333333)",-0.13333333333333333,0.2520833333333333,en,,
-1235062273082707968,@AlexBonura @strangerwriters This will be me studying Stranger Things then https://t.co/XQGx66pFVo,AlexBonura strangerwriters This studying Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235062197400690689,#MartesEnigmático Estimado @NetflixLAT ¿Me puedes confirmar si este es un caso de @Stranger_Things o de… https://t.co/j0i5Zr7WpU,MartesEnigm tico Dear NetflixLAT I can confirm whether this is a case of Stranger_Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,es,"Mexico, Distrito Federal",
-1235062196293513216,"@tinkerbepeu Eu tô chocada com esse último episódio HAUAHAUAY eu amei!
+1. 10 Coisas Que Eu Odeio Em Vc
+2. Um Homem de Sorte
+3. Stranger Things
+4. THE FOSTERS (n… https://t.co/Xw21FsZWCT",CURRENT Recommend 1 10 Things I Hate About You 2 A man 3 Lucky Stranger Things 4 THE FOSTERS n,"Sentiment(polarity=-0.15555555555555559, subjectivity=0.7111111111111111)",-0.15555555555555559,0.7111111111111111,pt,,
+1249028754241990656,"مسلسلك الحالي: Lucifer 
+اخر مسلسل خلصته: Better Call Saul 
+مسلسل ناوي تبدا تشوف: Black Mirror, Defending Jacob
+مسلس… https://t.co/UxKDLF6USa",Lucifer Better Call Saul Black Mirror Defending Jacob,"Sentiment(polarity=0.16666666666666669, subjectivity=0.4666666666666667)",0.16666666666666669,0.4666666666666667,ar,"Mansoura, Egypt",
+1249028636449165323,Oh man all I can think about when I see this is Demi saying stranger things so flipin fast during one of the interv… https://t.co/Q6HJB2nIaB,Oh man I think I see Demi saying stranger things flipin fast one interv,"Sentiment(polarity=0.2, subjectivity=0.6)",0.2,0.6,en,,
+1249028487119278080,If I could go back to when I was so excited to meet Jason David Frank at Comic con. I'd definitely change my mind.… https://t.co/e3YL8mMwxb,If I could go back I excited meet Jason David Frank Comic con I 'd definitely change mind,"Sentiment(polarity=0.15625, subjectivity=0.4375)",0.15625,0.4375,en,Roanoke Virginia ,
+1249028419779792897,En lugar de hacer un cazafantasmas con mujeres u otro Stranger Things mejor hubieran adaptado a estos cazafantasmas… https://t.co/eVrGGtO9mV,Instead of making a Ghostbusters with women or other Stranger Things would have better suited these cazafantasmas,"Sentiment(polarity=0.1875, subjectivity=0.4375)",0.1875,0.4375,es,Argentina,
+1249028383905890305,"💣 La Casa de Papel
+🚸 Elite
+💫 Stranger Things
+🏚 Peaky Blinders
+🦋 Narcos",Casa de Papel Elite Stranger Things Peaky Blinders Narcos,"Sentiment(polarity=0.1, subjectivity=0.4)",0.1,0.4,es,,
+1249028185402073090,@tempoanima stranger things,tempoanima stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1249028118733520897,"@aubvies the 1st one reminds me of i am not ok with this, the second one of birdbox, tge 3rd one of ffa and theast… https://t.co/TGHgiiHTBZ",aubvies 1st one reminds ok second one birdbox tge 3rd one ffa theast,"Sentiment(polarity=0.16666666666666666, subjectivity=0.16666666666666666)",0.16666666666666666,0.16666666666666666,en,🐸,
+1249028110550433798,name the top three stranger things characters GO,name top three stranger things characters GO,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,giving my kisses to:,
+1249028109044719616,"6 séries / 6@
 
-É bem uma mistura de The End of The F***ing… https://t.co/FRpuTPiBwh",tinkerbepeu I shocked by this last epis dio HAUAHAUAY I loved and a mixture of The End The F *** ing,"Sentiment(polarity=0.0, subjectivity=0.5555555555555556)",0.0,0.5555555555555556,pt,"Sorocaba, Brasil",
+-sherlock
+-himym
+-stranger things
+-friends
+-suits
+-arrow
+
+@alguemetiradaki 
+@therenascentist… https://t.co/ZvAZeDVXlS",6 ries 6 -sherlock -himym -stranger things -friends -suits -arrow alguemetiradaki therenascentist,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,em casa,
+1249028085069926401,"4 flims/series
+from @xxppyys 
+
+- glee
+- prison break
+- love, rosie
+- stranger things https://t.co/95ggCAjKLt",4 flims/series xxppyys glee prison break love rosie stranger things,"Sentiment(polarity=0.5, subjectivity=0.6)",0.5,0.6,en,ศาสนาแจยง,
+1249028076232720393,Ok so I'm officially crazy. I've rewatched ALL the seasons of @Stranger_Things 7 TIMES! THATS LIKE HUNDREDS OF HOUR… https://t.co/sZH6Orhs3A,Ok I 'm officially crazy I 've rewatched ALL seasons Stranger_Things 7 TIMES THATS LIKE HUNDREDS OF HOUR,"Sentiment(polarity=-0.04999999999999999, subjectivity=0.7)",-0.04999999999999999,0.7,en,,
+1249027939062210561,"seis amigos / seis series
+me nominó: @itsacorpse
+
+- Daredevil
+- Euphoria
+- Gravity Falls
+- stranger things
+- Narcos… https://t.co/E7lUFGt1RB",six friends six series nomin itsacorpse Daredevil Euphoria Gravity Falls stranger things Narcos,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,es,nevarro,
+1249027932649148416,"@ruda_boobear good girls 
+lucyfer stranger things",ruda_boobear good girls lucyfer stranger things,"Sentiment(polarity=0.7, subjectivity=0.6000000000000001)",0.7,0.6000000000000001,en,Polska,
+1249027713085648899,@Failary_ It's someone that knows things so I guess another fandom douche and not a stranger.,Failary_ It 's someone knows things I guess another fandom douche stranger,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Petersburg, VA",
+1249027683637268481,"Analizamos estas sorpresas que dan que hablar 👏
+
+https://t.co/a9RsRmwVDg",We analyze these surprises that give talk,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,es,"Madrid, España",
+1249027664943280130,Mka miss mag tanawg Stranger Things tas maki vibes lang kay ayos jd ilang OST haha,MKA to miss tanawg Stranger Things tas inter vibes just fix some OST jd haha,"Sentiment(polarity=0.2, subjectivity=0.3)",0.2,0.3,tl,Republic of the Philippines,
+1249027562266910720,@pbjnxtdrguy Stranger things have happened.,pbjnxtdrguy Stranger things happened,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1249027464187318272,@jokievanjet Gewoon omdat ik weet dat je hierop zit te wachten: Stranger things 😉,jokievanjet Just because I know you're waiting on this Stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,nl,Auradon,
+1249027463256117248,"Individuo juega al LOL todo el tiempo. Ayer le dije que mire Stranger Things ya que es mi serie preferida 
+Adivinen… https://t.co/TIoa71WcTn",Guy plays all the time LOL Yesterday I told you to look Stranger Things as it is my favorite series Guess,"Sentiment(polarity=0.65, subjectivity=0.85)",0.65,0.85,es,"Santa Fe, Argentina",
+1249027448056020997,Ich muss mir noch Stranger Things reinziehen.,I have to still reinziehen Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,de,,
+1249027386349203456,"@polbanfess money heist, insatiable, stranger things, 13rw!✨",polbanfess money heist insatiable stranger things 13rw,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1249027284280852480,@rubyfts28 Mampusssss 😩😩 aku nonton stranger things sm black mirror sm money heist aja gagal gara2 udh kebanyakan season 😁😁,rubyfts28 Mampusssss I watched stranger things sm sm black mirror heist money aja udh mostly failed gara2 season,"Sentiment(polarity=-0.3333333333333333, subjectivity=0.3666666666666667)",-0.3333333333333333,0.3666666666666667,in,"Jakarta, Indonesia",
+1249027257412341762,Che @netflix para cuando Stranger things?,Che netflix para cuando Stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1249027251116691462,"@mikeyface I Am Not Okay With This. I didn't think it'd be horrible, I was just worried it would be too much like S… https://t.co/38D9LdsWlX",mikeyface I Am Not Okay With This I n't think 'd horrible I worried would much like S,"Sentiment(polarity=-0.35000000000000003, subjectivity=0.5666666666666667)",-0.35000000000000003,0.5666666666666667,en,,
+1249027192287309825,"@sandaliaDaFeira @liliana_marinha Sim, porquê quem diz séries como ""Stranger things"" ou ""Game of thrones"" são pessoas muito mais sérias -.-",sandaliaDaFeira liliana_marinha Yes Why Not to speak ries as `` Stranger things '' or `` thrones Game '' people more holiday -.-,"Sentiment(polarity=0.04999999999999999, subjectivity=0.45)",0.04999999999999999,0.45,pt,,
+1249027181516165123,"@monymgl Claro, hay sus excepciones que se arriesgan AKA Stranger Things. Aunque si te fijas, todo el tema de adole… https://t.co/KweXFqKtbZ",monymgl Of course there are exceptions who risk Stranger Things AKA But if you look around the theme of Adole,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,es,Mexico,
+1249027168417398785,"@panggilpirmaaan @collegemenfess Lgi namatin stranger things dlu w, nnti selasa atau rabu lanjut drakoran lgi",panggilpirmaaan collegemenfess Lgi namatin dlu stranger things w nnti Tuesday or Wednesday about drakoran lgi,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,in,Hogwarts,
+1249026978260439043,@mutantmanchild Yeah Jonathan from Stranger things is not Sam at all,mutantmanchild Yeah Jonathan Stranger things Sam,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1249026928675151872,"De niña, #MayaHawke se sintió inspirada por la música de Johnny Cash y Bob Dylan, y cantaba junto a su papá, Ethan… https://t.co/KvioR16E6B",Ni Sinti MayaHawke was inspired by the music of Johnny Cash Bob Dylan sang along your pap Ethan,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,es,"Santiago, Chile",
+1249026901303332872,@strangerwriters @Stranger_Things @strangerwriters hello I'm really wanna to talk with duffer brothers or anybody c… https://t.co/jU8FLjFlBy,strangerwriters Stranger_Things strangerwriters hello I 'm really wan na talk duffer brothers anybody c,"Sentiment(polarity=-0.2, subjectivity=0.15000000000000002)",-0.2,0.15000000000000002,en,,
+1249026888720236544,"Stranger Things
+
+@SB19Official #SB19
+#SB19EasterWithATIN",Stranger Things SB19Official SB19 SB19EasterWithATIN,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Hacienda Ajero ,
+1249026873503383558,@CamV2524 @reicurran It’s risk and reward as in all things. A hug or a kiss to someone you know is worth it . A sal… https://t.co/vNtVjPgdLT,CamV2524 reicurran It risk reward things A hug kiss someone know worth A sal,"Sentiment(polarity=0.3, subjectivity=0.1)",0.3,0.1,en,"Ontario 🇨🇦,  Florida  🇺🇸",
+1249026855279230978,@voperotic Anne e stranger things,voperotic Anne e stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1249026839965769728,"preciso continuar stranger things, mas tô com tanta preguiça",must continue stranger things but so lazy,"Sentiment(polarity=-0.25, subjectivity=1.0)",-0.25,1.0,pt,,
+1249026758755717124,"1/ stranger things
+2/you
+3/dark , spinning out 
+4/la case de  papel 
+5/elite  بعد م سمعت ٣ حلقات https://t.co/nKoJbvHzlE",1/ stranger things 2/you 3/dark spinning 4/la casa de papel 5/elite,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,und,"El Sharkia, Egypt",
+1249026655437365249,Stranger things yeni sezon geliyormuş bu beni aşırı mutlu etti,Stranger things were happy to run this new season geliyormu me,"Sentiment(polarity=0.4681818181818182, subjectivity=0.7272727272727273)",0.4681818181818182,0.7272727272727273,tr,"Aydın, Türkiye",
+1249026582368399363,Meu álbum de fotos com o cast de Stranger things 😍 https://t.co/JsoqlKDnYV,My photo album with cast Stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,pt,,
+1249026485987524608,"7 shows, 7 Amigas/amigos:
+1- gilmore girls 
+2-brooklyn 99
+3-I love lucy 
+4- anne with an e 
+5-stranger things 
+6-la… https://t.co/zv6v5Zi2rQ",7 shows 7 Amigas/amigos 1- gilmore girls 2-brooklyn 99 3-I love lucy 4- anne e 5-stranger things 6-la,"Sentiment(polarity=0.5, subjectivity=0.6)",0.5,0.6,en,Stars hollow,
+1249026460721045504,"Stranger things, dark y todas las fantasiosas https://t.co/6ZTnfRovhn",Stranger things dark todas las fantasiosas,"Sentiment(polarity=-0.15, subjectivity=0.4)",-0.15,0.4,en,"Santiago del Estero, Argentina",
+1249026388285206530,ฟอนต์ที่ทำให้นึกถึง Stranger things มันต้องใช่แน่ๆ 5555 https://t.co/CeU1590sFA,Stranger things 5555,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,th,Thailand,
+1249026356756840451,my stranger things tee is too big to wear outside so I wear it at home as nightwear,stranger things tee big wear outside I wear home nightwear,"Sentiment(polarity=0.0, subjectivity=0.07500000000000001)",0.0,0.07500000000000001,en,Dubai - Fuj,
+1249026314683760644,"@NetflixBrasil 🔗 CORRENTE 🔗
+
+Recomende:
+
+1. Invocação do mal 1 e 2.
+2. O poço.
+3. Stranger Things.
+4. I Am Not Okay… https://t.co/SCDZ7DOvMv",CURRENT NetflixBrasil Recommend 1 and 2 invokes poorly 1 2 3 PO 4 Stranger Things I Am not okay,"Sentiment(polarity=-0.21666666666666667, subjectivity=0.5)",-0.21666666666666667,0.5,pt,,
+1249026293414252544,Robin from stranger things will always have my heart I just love how they handled her character and Steve wasn’t a… https://t.co/EaqOWarnNw,Robin stranger things always heart I love handled character Steve,"Sentiment(polarity=0.5, subjectivity=0.6)",0.5,0.6,en,she/her | 20 | z 🖤,
+1249025891755274241,@Wakende_00 No me gusto mucha la serie. Tiene mucho parecido con stranger things.,Wakende_00 not like much the series has much resemblance to Stranger Things,"Sentiment(polarity=0.2, subjectivity=0.2)",0.2,0.2,es,,
+1249025867772301312,Tim Rants- Stacey Should be in Stranger Things 4 (My Opinion) https://t.co/mTomyoUET9 via @YouTube @SydneyBullock6… https://t.co/OK2vlMJPQ8,Tim Rants- Stacey Should Stranger Things 4 My Opinion via YouTube SydneyBullock6,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1249025841675280384,"@ilil005 @salehmul1 @d7mu6 @bassam_knm @imsiai @SaleehML @Suhail_ibra 7 shows, 7 amigos
+Tagged by @ilil005 
+1-Stran… https://t.co/JaLMKrcV4y",ilil005 salehmul1 d7mu6 bassam_knm imsiai SaleehML Suhail_ibra 7 shows 7 amigos Tagged ilil005 1-Stran,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1249025755536818176,"• Eleven Hopper [Stranger Things]
+
+-&gt; agênero
+-&gt; pansexual
+-&gt; pronomes: ela/-a ou elu/-e https://t.co/acHZ55gcKl",Eleven g Hopper Stranger Things gt number gt pansexual gt pronouns she / or eluted -a / -e,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,pt,"Sao Paulo, Brazil",
+1249025681239035904,stranger things!! https://t.co/o3vxauVYbZ,stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Rouen, France",
+1249025665564839937,Estou oficialmente a pedir socorro no jogo de stranger things,I officially ask for help playing stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,pt,Astroworld ,
+1249025662431756290,"@irtizakazmiii 13 reasons why
+elite
+lucifer
+money heist
+mirzapur
+you
+vampire diaries 
+peaky blinders
+stranger thing… https://t.co/u0KPbJ65f2",irtizakazmiii 13 reasons elite lucifer money heist mirzapur vampire diaries peaky blinders stranger thing,"Sentiment(polarity=0.1, subjectivity=0.4)",0.1,0.4,en,roshniyon ka shehr,
+1249025654538096640,"Underrated - Good Girls
+Overrated - Stranger Things https://t.co/6QXQdyJUQ9",Underrated Good Girls Overrated Stranger Things,"Sentiment(polarity=0.7, subjectivity=0.6000000000000001)",0.7,0.6000000000000001,en,,
+1249025609285632000,@wasabisrare stranger things series 1 kicked that off,wasabisrare stranger things series 1 kicked,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Swinford, England",
+1249025556395560964,I need to get Stranger Things again.,I need get Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Alberton, South Africa",
+1249025539165179906,@Properclown stranger things is overhyped and yeah rest of them are overrated.,Properclown stranger things overhyped yeah rest overrated,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Ghar Aana hein kya? ,
+1249025483653742595,@_iihxx توني خلصت stranger things احسه نفس الجو ابا شي برا هالغموض,_iihxx stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ar,🇦🇪|🇾🇪,
+1249025367538466822,Kok gw tegang y ntn Stranger Things episode The Gate..makin sini makin mencekam. Pas tau org2 rumah dah pd tidur gw… https://t.co/yiu5ht6HjU,Kok gw NTN tense episode Stranger Things The Gate..makin here increasingly tense Pas home org2 dah tau gw sleep pd,"Sentiment(polarity=-0.3333333333333333, subjectivity=0.5)",-0.3333333333333333,0.5,in,,
+1249025285623656448,"I hate stranger things. That's it, that's the tea.",I hate stranger things That 's 's tea,"Sentiment(polarity=-0.8, subjectivity=0.9)",-0.8,0.9,en,"Johor, MY",
+1249025244259549185,@mistresshinako Stranger Things?,mistresshinako Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1249025235568885763,"@SkyHimanshu 13 reasons why, stranger things and collage romance",SkyHimanshu 13 reasons stranger things collage romance,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1249025219429269506,@n8dawwggg Right? Parents spend their lives telling their kids not to put things in their mouth from outside.... su… https://t.co/lqe3bmpUSU,n8dawwggg Right Parents spend lives telling kids put things mouth outside ... su,"Sentiment(polarity=0.14285714285714285, subjectivity=0.29285714285714287)",0.14285714285714285,0.29285714285714287,en,"Toronto, Ontario",
+1249025160864239621,fomos de eleven de stranger things para demônio de supernatural aqui https://t.co/fFZSDozczk https://t.co/SzasJGxRQX,We went from eleven of stranger things to supernatural nio dem here,"Sentiment(polarity=0.16666666666666666, subjectivity=0.5666666666666667)",0.16666666666666666,0.5666666666666667,pt,"Mato Grosso do Sul, Brazil",
+1249025078752350213,"@MeganGilburp On Netflix, my top bingable series recommendations:
+- Money Heist (La casa de papel)
+- Sex Education… https://t.co/WHG0aFI4go",MeganGilburp On Netflix top bingable series recommendations Money Heist La casa de papel Sex Education,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,Austerity,
+1249024956249395200,"7 shows/3 amigos 
+
+Anne with an e 
+Friends 
+HTGAWM
+La casa de papel
+Cable girls
+Morocco love in times of war 
+Stran… https://t.co/S1CWR1zgXF",7 shows/3 amigos Anne e Friends HTGAWM La casa de papel Cable girls Morocco love times war Stran,"Sentiment(polarity=0.5, subjectivity=0.6)",0.5,0.6,en,"Eastern, Kingdom of Saudi Arabia",
+1249024892567248896,Finished stranger things. Last two episodes were amazing! Being on season 4 #StrangerThings,Finished stranger things Last two episodes amazing Being season 4 StrangerThings,"Sentiment(polarity=0.30000000000000004, subjectivity=0.48333333333333334)",0.30000000000000004,0.48333333333333334,en,"Evanton, Scotland,UK",
+1249024853165985792,Stranger things corre aqui https://t.co/EVBMnSdqaA,Stranger things corre aqui,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1249024470016299013,"Digam 5 séries que gostam e marquem 5 pessoas para fazerem o mesmo 
+- Lúcifer 
+- La Casa de Papel
+- Stranger Things… https://t.co/ZsChLMJ0R4",Say 5 ries who like and mark five people to do the same L cifer La Paper House Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.125)",0.0,0.125,pt,Raftel,
+1249024420120637441,"Make mistakes, learn from 'em, and when life hurts you - because it will - remember the hurt. The hurt is good. It… https://t.co/Wrl1rg4CmL",Make mistakes learn 'em life hurts remember hurt The hurt good It,"Sentiment(polarity=0.7, subjectivity=0.6000000000000001)",0.7,0.6000000000000001,en,kepo bgsd,
+1249024263811674120,@BodaciousBeer I don’t think a team can bet the house and the next 5 years of their franchise on a guy that has had… https://t.co/qANWEXrSZ9,BodaciousBeer I think team bet house next 5 years franchise guy,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Indianapolis, IN","[[-86.3586373, 39.924127], [-86.240696, 39.924127], [-86.240696, 39.990742], [-86.3586373, 39.990742]]"
+1249024240243871744,@Stranger_Things @bex2002005,Stranger_Things bex2002005,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,und,"Inverness, Scotland",
+1249024172866535425,Earlier this year I headed to my first ever #secretcinema event. It was AMAZING. Here's what to expect and why you… https://t.co/vFTEL5rR1A,Earlier year I headed first ever secretcinema event It AMAZING Here 's expect,"Sentiment(polarity=0.2833333333333334, subjectivity=0.5777777777777778)",0.2833333333333334,0.5777777777777778,en,"South East, England",
+1249024126603452421,"7 shows, 7 amigos:
+Tagged by: @Elhams_g
+
+House M.D
+Stranger things
+Homeland
+24
+Prison break
+Rick and Morty
+Mind hun… https://t.co/FVXyoamhun",7 shows 7 amigos Tagged Elhams_g House M.D Stranger things Homeland 24 Prison break Rick Morty Mind hun,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,The OR = The promised land ❤️,
+1249024013365661698,Mano to vendo stranger things acho que pela 5° vez,Mano seeing stranger things I think the 5 time,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,pt,konoha,
+1249023933614919681,"Series i watch during corona
+
+1. Kingdom series
+2. Cloy
+3. Money Heist
+4. Stranger Things https://t.co/5eN2WS6Jf0",Series watch corona 1 Kingdom series 2 Cloy 3 Money Heist 4 Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Central Java, Indonesia",
+1249023921359372291,"مسلسل الحالي : prison break 
+اخر مسلسل خلصته : peaky blinders
+مسلسل ناوي ابدا اشوفه : مش عارفه لسه
+مسلسل متردد اتاب… https://t.co/L0PtHZV3NC",prison break peaky blinders,"Sentiment(polarity=0.1, subjectivity=0.4)",0.1,0.4,ar,,
+1249023759698329605,"Já vi Stranger Things , Prison Break e estou a acabar Breaking Bad , digam aí uma série para ver",J saw Stranger Things Prison Break and I end up Breaking Bad say one Series to see,"Sentiment(polarity=-0.6999999999999998, subjectivity=0.6666666666666666)",-0.6999999999999998,0.6666666666666666,pt,,
+1249023736134631425,sin exagerar la última serie de netflix de no animación que vi fue stranger things 3 el verano pasado estoy más otaco que nunca,without exaggerating the latest series of animated netflix I saw it was stranger things 3 last summer I otaco than ever,"Sentiment(polarity=0.25, subjectivity=0.48333333333333334)",0.25,0.48333333333333334,es,,
+1249023722385793025,"@NetflixBrasil 1-Harry Potter (todos)
+2-uma lição de amor
+3- Stranger things
+4- when calls the heart
+5-democracia em vertigem",NetflixBrasil 1-Harry Potter 2-all a lesson of love Stranger things 3- 4- 5 calls heart-democracy vertigo,"Sentiment(polarity=0.5, subjectivity=0.6)",0.5,0.6,pt,,
+1249023667993968644,"@anittxcrew Sabrina, Stranger Things, Euphoria e Sex Education",anittxcrew Sabrina Stranger Things Euphoria e Sex Education,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Palmas, Brasil",
+1249023625300246535,"@txvoodoo Lots of love from another stranger. So sorry.
+
+Of course you wouldn't forget the things about him that yo… https://t.co/a4D9uwsen0",txvoodoo Lots love another stranger So sorry Of course would n't forget things yo,"Sentiment(polarity=0.0, subjectivity=0.8)",0.0,0.8,en,"West Yorkshire, UK",
+1249023553967620099,If Stranger Things happened in Westeros! https://t.co/fgZW6g901h,If Stranger Things happened Westeros,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Kingslanding ,
+1249023471390244864,@MeganGilburp have u seen stranger things before? I’ve heard it’s pretty good,MeganGilburp u seen stranger things I heard pretty good,"Sentiment(polarity=0.475, subjectivity=0.8)",0.475,0.8,en,loving mileven 🥺❤️,
+1249023405371899905,"@gizellySFEL @Iexandre Não vejo nada disso, só se você tá vivendo no mundo invertido de Stranger Things?! 😂😂😂😂",gizellySFEL Iexandre N see any of that if you live inverted world of Stranger Things,"Sentiment(polarity=0.13636363636363635, subjectivity=0.5)",0.13636363636363635,0.5,pt,"Ceará, Brasil",
+1249023401727049733,@MeganGilburp Watch stranger things,MeganGilburp Watch stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Manhattan, NY",
+1249023399986421760,Im so impressed that the ukrainian tv got stranger things star millie bobbie brown to do junior eurovision😳 https://t.co/RZreFQL1w7,Im impressed ukrainian tv got stranger things star millie bobbie brown junior eurovision,"Sentiment(polarity=1.0, subjectivity=1.0)",1.0,1.0,en,,
+1249023324006617094,"@DawoodSafi12 serial - stranger things
+movie - ford vs ferrari
+book - everything is fucked a book about hope",DawoodSafi12 serial stranger things movie ford vs ferrari book everything fucked book hope,"Sentiment(polarity=-0.6, subjectivity=0.7)",-0.6,0.7,en,"Kabul, Afghanistan",
+1249023322408419329,"Dark
+Kingdom
+Stranger Things
+The witcher https://t.co/mxf5xpXbM4",Dark Kingdom Stranger Things The witcher,"Sentiment(polarity=-0.15, subjectivity=0.4)",-0.15,0.4,en,India,
 id,original_text,clean_text,sentiment,polarity,subjectivity,lang,place,place_coord_boundaries
-1235110587564093440,"@moviemenfes harry potter, stranger things",moviemenfes harry potter stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235110485344669696,@rinthemodel Its by the directors of Stranger Things &amp; End of the F*cking World which makes sense cus it gave off E… https://t.co/YCJz2GmXYL,rinthemodel Its directors Stranger Things amp End F*cking World makes sense cus gave E,"Sentiment(polarity=-0.6, subjectivity=0.8)",-0.6,0.8,en,"Las Vegas, NV",
-1235110325025779714,@HealthPakStream I recently discovered the strange brilliance that is Horror Wave/Synth Horror. I especially enjoy… https://t.co/DP8h0tRfWG,HealthPakStream I recently discovered strange brilliance Horror Wave/Synth Horror I especially enjoy,"Sentiment(polarity=0.25, subjectivity=0.4666666666666666)",0.25,0.4666666666666666,en,Niedersachsen/NRW Deutschland,
-1235110083668758528,"@BrRibeiro21 @NetflixBrasil simm, uma mistura de the end of the fucking world e stranger things, pft dms",BrRibeiro21 NetflixBrasil simm uma mistura de end fucking world e stranger things pft dms,"Sentiment(polarity=-0.6, subjectivity=0.8)",-0.6,0.8,en,em outro patamar.,
-1235110029256085506,Can Netflix darme otra temporada de Stranger Things y de The Witcher por favor.,Can Netflix darme otra temporada de Stranger Things de The Witcher por favor,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235109880052084737,"Okay hear me out y'all. So pakadto ko sa Christ The King ha and so nagsakay ko bus. And after I found a seat, I wat… https://t.co/fbxaAemCFS",Okay hear y'all So pakadto ko sa Christ The King ha nagsakay ko bus And I found seat I wat,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,"전주시, 대한민국 ",
-1235109809206087680,"Inicio del rodaje de #StrangerThings temporada 4
-#Netflix lo anuncia con un pequeño vídeo de la lectura del guión.… https://t.co/NOS2iE88ND",Start filming season 4 StrangerThings Netflix announced it with a small v deo reading the gui n,"Sentiment(polarity=-0.25, subjectivity=0.4)",-0.25,0.4,es,"Madrid, Comunidad de Madrid",
-1235109746778099712,Have you heard ‘The Stranger Things Mixtape’ by DJ Yoda (UK) on #SoundCloud? #np https://t.co/28VFPTvZU2,Have heard The Stranger Things Mixtape DJ Yoda UK SoundCloud np,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,USA,
-1235109728407019520,meu Deus a FONTE DE STRANGER THINGS https://t.co/ZolPN3MNkv,God STRANGER THINGS SOURCE,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,pt,Hell,
-1235109719183888385,@Barbara4u2 I didn't know you were in Stranger Things 😁 https://t.co/jXPp9FBWIL,Barbara4u2 I n't know Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Scotland,
-1235109712120537088,Have you heard ‘stranger things’ by haven on #SoundCloud? #np https://t.co/PARl8CBGON,Have heard stranger things SoundCloud np,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,USA,
-1235109612157693957,@SylvieGelinet @WereldPijnCafe @Wandaspangler2 @GraceAlijah @LieDete86289015 @DIRECTD3MOCRACY @Si_or_just_Si… https://t.co/WpSuh73yVU,SylvieGelinet WereldPijnCafe Wandaspangler2 GraceAlijah LieDete86289015 DIRECTD3MOCRACY Si_or_just_Si,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235109600744992769,sis started therapy. took me years to convince myself into it. to build up enough will power to walk up to a strang… https://t.co/8flCo7iwFX,sis started therapy took years convince build enough power walk strang,"Sentiment(polarity=0.0, subjectivity=0.5)",0.0,0.5,en,gotham city,
-1235109468507013120,@ccIetus Sadly was never really a fan of stranger things...,ccIetus Sadly never really fan stranger things ...,"Sentiment(polarity=-0.1, subjectivity=0.2)",-0.1,0.2,en,aaaaaaaaaaaa,
-1235109095847448578,@iiPaola_10 @lacasadepapel Como... como no se haya marcado un hopper en stranger things... no se que decirte,iiPaola_10 lacasadepapel As ... as you have set a hopper in stranger things ... I am to tell,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,es,,
-1235108904935145472,Gi ignan kog mura daw kog si billy sa stranger things hahaha,"Gi is asking me cheap, I like billy stranger things hahaha","Sentiment(polarity=0.30000000000000004, subjectivity=0.55)",0.30000000000000004,0.55,tl,somewhere over the rainbow🌈,
-1235108833556443136,Elenco se reúne para mesa de leitura da 4ª temporada de Stranger Things https://t.co/GL6BCGwYmB #StrangerThings4,Cast se ne for table reading 4 season Stranger Things StrangerThings4,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,pt,,
-1235108778011291650,@iameduardoo @folha Stranger things - são crianças numa série de ficção científica vai pra 4° e talvez última tempo… https://t.co/SvZHaIwklB,Stranger things iameduardoo leaf child in a series of fic cient is going to 4 and perhaps last time,"Sentiment(polarity=0.0, subjectivity=0.06666666666666667)",0.0,0.06666666666666667,pt,,
-1235108698986598402,stranger things  https://t.co/6RIpNazlNL,stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235108116611493888,"【自分メモ】
+1249031321764143109,@NetflixFR stranger things one piece dragon ball z et la saison 3 de attaque des titans,NetflixFR stranger things One Piece and Dragon Ball Z Season 3 of Attack on Titan,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,fr,,
+1249031195561689092,"مسلسلك الحالى: stranger things
+اخر مسلسل خلصته: modern love
+مسلسل ناوى تبدأ تشوفه: dark
+مسلسل متردد تشوفه: vikings… https://t.co/4b0nHSOb2t",stranger things modern love dark vikings,"Sentiment(polarity=0.18333333333333332, subjectivity=0.4333333333333333)",0.18333333333333332,0.4333333333333333,ar,,
+1249031097314349061,Quando aspetti la quarta stagione di Stranger Things. #StrangerThings4 #Netflix https://t.co/pDjDkkT6K9,When aspects of the fourth season of Stranger Things StrangerThings4 Netflix,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,it,,
+1249031079840776192,"@chanscharm Bener bgtt kyk pengen lanjutin nonton ke season 2, tapi faktanya blm ada...
 
-CRIMINAL MINDS
-HANNIBAL
-FIVE-0
-LUCIFER
-SUPER NATURAL
-THE WITCHER
-SHADOW HANTERS
-NIGHT SHIFT
-SHERLOCK
-STRANG… https://t.co/XwPPrWEPiP",CRIMINAL MINDS HANNIBAL FIVE-0 LUCIFER SUPERNATURAL THE WITCHER SHADOWHUNTERS NIGHT SHIFT SHERLOCK STRANG,"Sentiment(polarity=-0.11666666666666668, subjectivity=0.5583333333333333)",-0.11666666666666668,0.5583333333333333,ja,魔法界⇔夢の国,
-1235107892891537413,want to feel what i first felt when i watched stranger things for the first time in 2016,want feel first felt watched stranger things first time 2016,"Sentiment(polarity=0.25, subjectivity=0.3333333333333333)",0.25,0.3333333333333333,en,lani ♡ 21.01.20,
-1235107802772721664,@Stranger_Things I love this cast so much ❤️,Stranger_Things I love cast much,"Sentiment(polarity=0.35, subjectivity=0.4)",0.35,0.4,en,,
-1235107755096240129,@Stranger_Things @bIythesanne YESSSSYESYESYES,Stranger_Things bIythesanne YESSSSYESYESYES,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ht,,
-1235107406075420672,@Skoog She’s the mind power girl from Stranger Things.,Skoog She mind power girl Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Pocket,
-1235107106459512833,"Stranger Things.
+Stranger things mungkin ag… https://t.co/sWbm73PWtI",Bener chanscharm bgtt kyk lanjutin want to watch season 2 but the fact is not done there ... Stranger things might ag,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,in,I'll do it for my crew now,
+1249031072223866880,Stephen King novels 🤝 Stranger Things https://t.co/msxNO8tvqj,Stephen King novels Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,the spiral staircase,
+1249031056235335681,"مسلسلك الحالي : لسا مقررتش
+اخر مسلسل خلصته :la casa de papel
+مسلسل ناوي تبدأ تشوفه :  Stranger things 
+مسلسل متردد… https://t.co/8mNP4upFuC",paper house Stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ar,"Alexandria, Barcelona 🇪🇬🇪🇸",
+1249030972881768451,"@chanscharm iyaa mikir sih, atauga im not okay w this ajaa hampir sama kyk stranger things ttg kkuatan gitu tp season 1 mya gantung bgt",chanscharm Iyaa atauga thinking anyway im okay w ajaa nearly as kyk stranger things kkuatan ttg so tp season 1 mya hanging bgt,"Sentiment(polarity=0.3, subjectivity=0.45)",0.3,0.45,in,district 9,
+1249030885300744193,@GoodniteFR J'espère que notre map Stranger Things sera acceptée ! ♥️,GoodniteFR J'esp que notre map Stranger Things sera accept e,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,fr,Une question ? ➡️ DM,
+1249030868120657921,"@shalengggggg @jeXromero Under the dome
+Stranger things
+Forever american
+Ang probinsyano
+Encantadia",shalengggggg jeXromero Under dome Stranger things Forever american Ang probinsyano Encantadia,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"General Trias, Calabarzon",
+1249030825716396034,"@NetflixFR Stranger things,  Lucifer",NetflixFR Stranger things Lucifer,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Martinique,
+1249030796616306688,Streaming service’s biggest hits of all time @netflix @TigerKingEFT  - https://t.co/DvVJ09DXM9 Watch &amp; record on Mo… https://t.co/MzwEjdvU3x,Streaming service biggest hits time netflix TigerKingEFT Watch amp record Mo,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Austin, TX",
+1249030792514170880,"quão similar nós somos? 
+• 10 pontos cada 
 
-C'est vachement bien.",Stranger Things That is pretty darn good,"Sentiment(polarity=0.475, subjectivity=0.8)",0.475,0.8,fr,"Au fond, à gauche.",
-1235106920064671744,"Stranger things season 4 is really happening and I’m gonna have a stranger things 4 party for the Premiere, everyone’s invited",Stranger things season 4 really happening I gon na stranger things 4 party Premiere everyone invited,"Sentiment(polarity=0.2, subjectivity=0.2)",0.2,0.2,en,Canyon moon ,
-1235106851148066816,"Ya podéis ir frotándoos las manos, que el rodaje de #StrangerThings4 ha comenzado. https://t.co/nCweFDWVJj https://t.co/GwZdpeV3aK",Pod and go ndoos rubbed his hands that filming has begun StrangerThings4,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,es,España,
-1235106640027774976,@Stranger_Things 😭😭,Stranger_Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,und,,
-1235106496423157760,"Stranger Things Season 4: Cast reunites for table read. Watch video
-https://t.co/GgsegjIoTN",Stranger Things Season 4 Cast reunites table read Watch video,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Delhi, India",
-1235106470384951298,Would you join me in spreading awareness #AutismAwareness  #MyVoice @DjSoxxy @Stranger_Things @andyspeaks4… https://t.co/IgQq6xyYIL,Would join spreading awareness AutismAwareness MyVoice DjSoxxy Stranger_Things andyspeaks4,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Nairobi,
-1235106392693825536,"Und wenn du singen kannst, dann sing! @theesuhlmann - was ein Tanz im Colos Saal!
-*(muss immer noch an die Stranger… https://t.co/UgW6hXZXpZ",And when you sing you still can then sing theesuhlmann a dance hall in Colos must Stranger,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,de,"Darmstadt, Deutschland",
-1235106219200634881,"@moviemenfes stranger things, riverdale, i am not okay with this, maze runner, divergent, maze runner, game of thro… https://t.co/1Z2HWveIg2",moviemenfes stranger things riverdale okay maze runner divergent maze runner game thro,"Sentiment(polarity=0.04999999999999999, subjectivity=0.45)",0.04999999999999999,0.45,en,"Bandung, Indonesia",
-1235106153324929024,super 8 walked so stranger things could run,super 8 walked stranger things could run,"Sentiment(polarity=0.3333333333333333, subjectivity=0.6666666666666666)",0.3333333333333333,0.6666666666666666,en,,
-1235106100502048768,"Весь актерский состав пока вместе. 
-https://t.co/n6RsHMuPb7",,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ru,"Москва, Россия",
-1235105847606267906,Millie Bobby brown backstage of stranger things https://t.co/WI2uVsER7V,Millie Bobby brown backstage stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,nigger area,
-1235105661366624256,My brother and I made a deal that he’d watch one season of stranger things if I watched one season of aos then I go… https://t.co/Zk8EUk88X6,My brother I made deal watch one season stranger things I watched one season aos I go,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Multifandom asf,
-1235105477945520128,"I forgot the guy from fleabag is also in stranger things.
+aparência
+• cabelo grande 
+• 1,55
+• olhos castanhos escuros
 
-I also forgot his name. Sorry. https://t.co/Sd6BmU5sry",I forgot guy fleabag also stranger things I also forgot name Sorry,"Sentiment(polarity=-0.5, subjectivity=1.0)",-0.5,1.0,en,,
-1235105442281340928,ชอบดู stranger things ตอนกินข้าว แล้วก็กินไม่ลง เป็นบ้า,stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,th,,
-1235105339663499264,"@tatifernandes_ @NetflixBrasil Orphan Black , The100, ponto cego,  Anne with an e, Locke e key ,   stranger things… https://t.co/6HEqHqpyXu",tatifernandes_ NetflixBrasil Orphan Black The100 ponto cego Anne e Locke e key stranger things,"Sentiment(polarity=-0.08333333333333333, subjectivity=0.7166666666666667)",-0.08333333333333333,0.7166666666666667,en,"Nova Iguaçu, Brasil",
-1235105171467689984,"I sadly just realized that I couldn’t give less of a fuck about Stranger Things 4. 3 was such a trashfire, I don’t even care anymore 😔",I sadly realized I give less fuck Stranger Things 4 3 trashfire I even care anymore,"Sentiment(polarity=-0.35555555555555557, subjectivity=0.5555555555555555)",-0.35555555555555557,0.5555555555555555,en,"Cape Town, South Africa",
-1235105048050282497,Je rereregarde Stranger Things,Je rereregarde Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,no,"Angoulême, France",
-1235104981377785856,"I left my cave today and a borderline stranger said they would ""buy me things"" and now I'm hiding back in my cave t… https://t.co/HYCPlI2NSw",I left cave today borderline stranger said would `` buy things '' I 'm hiding back cave,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Miami, FL",
-1235104881775480832,@77Perrygirl Sending lots of love and big hugs to you . I know I am a stranger in the real world but we can relate… https://t.co/7lp0jWVtS3,77Perrygirl Sending lots love big hugs I know I stranger real world relate,"Sentiment(polarity=0.2333333333333333, subjectivity=0.3333333333333333)",0.2333333333333333,0.3333333333333333,en,"England, United Kingdom",
-1235104728800825344,Non Donia regarder Stranger Things tous les jours ne va pas guérir y’a dépression.,No Stranger Things Donia watch every day is not going gu er pressure,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,fr,Lost Somewhere ,
-1235104561943068673,@Stranger_Things Bro will better be in the storyline if not I dont know but this is my reaction to the last season,Stranger_Things Bro better storyline I dont know reaction last season,"Sentiment(polarity=0.25, subjectivity=0.2833333333333333)",0.25,0.2833333333333333,en,,
-1235104527348457472,@Stranger_Things Trop hâte au mon dieu je le savait,Too pm Stranger_Things you to my god I knew,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,fr,,
-1235104397752856577,@Stranger_Things Make a scene where Mike or anh other character throws a toy ambulance at eleven I am begging you,Stranger_Things Make scene Mike anh character throws toy ambulance eleven I begging,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235104161844224000,@rJHJVX93U0GdMXE @Stranger_Things @TEOTFW 가능하면 해볼게요..!,rJHJVX93U0GdMXE Stranger_Things TEOTFW ..,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ko,,
-1235104009871953920,I got Will Byers! https://t.co/1Wket0jnPC,I got Will Byers,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"2020?? masih di jurang :"")",
-1235103973331230721,Tahun ini nunggu Money Heist season 4 dan Stranger Things season 4,This year waiting Money Heist Stranger Things season 4 and season 4,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,in,Indonesia,
-1235103598620446720,"@rothyie hshsh, I'm glad that we're friends. 🥺 I've watched Harry Potter but I haven't gotten the chance to watch S… https://t.co/YWZyygISbF",rothyie hshsh I 'm glad 're friends I 've watched Harry Potter I n't gotten chance watch S,"Sentiment(polarity=0.5, subjectivity=1.0)",0.5,1.0,en,𝐁𝐈𝐋.,
-1235103597337047040,Waiting to get the “who’s that about” messages and people trying to figure out who I’m talking about when in realit… https://t.co/2y1EErNEHm,Waiting get messages people trying figure I talking realit,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235103538063134720,Millennials do really stupid things then come to social media to massage their ego. You have no right whatsoever to… https://t.co/wwgmcZDTXr,Millennials really stupid things come social media massage ego You right whatsoever,"Sentiment(polarity=-0.1603174603174603, subjectivity=0.5341269841269841)",-0.1603174603174603,0.5341269841269841,en,"Lagos, Nigeria",
-1235103299365244933,@Stranger_Things Realease the season 4 ASAP,Stranger_Things Realease season 4 ASAP,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Mumbai, India",
-1235102924977496066,"Estoy mirando Stranger Things y les justo que tengo miedo, esto de vivir sola",I'm looking at them right Stranger Things I'm afraid this living alone,"Sentiment(polarity=-0.15714285714285714, subjectivity=0.7178571428571429)",-0.15714285714285714,0.7178571428571429,es,Argentina.,
-1235102817775267842,I was one of the cast of stranger things. I was soooo ready to fight those ugly ass monsters until nagpatugtog ng m… https://t.co/qkiRNBepO3,I one cast stranger things I soooo ready fight ugly ass monsters nagpatugtog ng,"Sentiment(polarity=-0.24999999999999997, subjectivity=0.75)",-0.24999999999999997,0.75,en,"Las Pinas City, National Capital Region",
-1235102763782045696,is sikowitz in stranger things season four,sikowitz stranger things season four,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,manchester,
-1235102533099503616,"@fuzzballsoren 1. Stranger Things
-2. Bojack Horseman
-3. The Promised Neverland",fuzzballsoren 1 Stranger Things 2 Bojack Horseman 3 The Promised Neverland,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,The Trash Bin,
-1235102286679953408,"@MissLatinaFey Legends of Tomorrow, Cable Girls, The Shannara Chronicles, The Haunting of Hill House, Supergirl, Am… https://t.co/KJYTde08NH",MissLatinaFey Legends Tomorrow Cable Girls The Shannara Chronicles The Haunting Hill House Supergirl Am,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Portland, OR",
-1235102097101774848,3 Panels Cartoon Picture Horror Movie Poster STRANGER THINGS Picture Oil Painting Wall Art Home Decor Bedroom Decor… https://t.co/1XFjJhYEIY,3 Panels Cartoon Picture Horror Movie Poster STRANGER THINGS Picture Oil Painting Wall Art Home Decor Bedroom Decor,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235101340054908928,Stranger things is such an amazing show  ngl the way they balance comedy and thriller is something else and they ke… https://t.co/XMsDr59Mu0,Stranger things amazing show ngl way balance comedy thriller something else ke,"Sentiment(polarity=0.6000000000000001, subjectivity=0.9)",0.6000000000000001,0.9,en,"Lagos, Nigeria",
-1235101137398714370,A Stranger Things 4. évadának olvasópróbáján családias a hangulat - https://t.co/eUHwrroZou,Stranger Things fourth wild has reading PR j n b dias mood cheats,"Sentiment(polarity=0.05, subjectivity=0.2)",0.05,0.2,hu,Budapest,
-1235101012081303553,@Babethsi @_bele___ @4rbeitsamt @Choco_Cino @chuzpe_0 @C_Giog @marseltoph @unvrsvndlch @Scoutsen1 @reinheizgebot… https://t.co/fUYAIyTs2i,Babethsi _bele___ 4rbeitsamt Choco_Cino chuzpe_0 C_Giog marseltoph unvrsvndlch Scoutsen1 reinheizgebot,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,de,"Wien, Österreich",
-1235100658170122242,@Uppercut07 I was honestly shocked at how bad it was. But I gotta admit I like Stranger Things for the nostalgia trip :P,Uppercut07 I honestly shocked bad But I got ta admit I like Stranger Things nostalgia trip P,"Sentiment(polarity=-0.7, subjectivity=0.7333333333333334)",-0.7,0.7333333333333334,en,Sri Lanka,
-1235100602104836097,"since everyone is asking, kat deactivated her account because stranger things fans had attacked her because she sim… https://t.co/64QgHPAn1i",since everyone asking kat deactivated account stranger things fans attacked sim,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,𝟎𝟑𝟏𝟑𝟏𝟗,
-1235100434001346561,@Stranger_Things @poupard_mlanie !!,Stranger_Things poupard_mlanie,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,und,,
-1235100215218073601,@BHarieth Regardless of who wins for Democratic Party. I feel people just aren’t going to vote unless it’s the Demo… https://t.co/7EfIcNUUeC,BHarieth Regardless wins Democratic Party I feel people going vote unless Demo,"Sentiment(polarity=0.3, subjectivity=0.2)",0.3,0.2,en,Sunshine State,
-1235100182716407809,Şu videoyu stranger things seven arkadaşıma izlettim dedi ki bu çocukları neden bu kadar çok sevdiğini anlayabiliyo… https://t.co/ouXjaiUKiR,"u watch the video of the stranger things I've said, these children are loving friend why it is so loved the arrows in the anlayabiliyo","Sentiment(polarity=0.6499999999999999, subjectivity=0.875)",0.6499999999999999,0.875,tr,tartarus,
-1235099851936813056,y’all wish noah from stranger things snapped you personally https://t.co/NsOrpaG2rv,wish noah stranger things snapped personally,"Sentiment(polarity=0.0, subjectivity=0.3)",0.0,0.3,en,ly 180909💫 ; sy 190505 ✨,
-1235099806994796545,When Fan Girl follows the real world I am still searching and waiting for that next TV show to unite us all. Since… https://t.co/lDDvZkWuc9,When Fan Girl follows real world I still searching waiting next TV show unite us Since,"Sentiment(polarity=0.1, subjectivity=0.15000000000000002)",0.1,0.15000000000000002,en,Philippines,
-1235099607492780033,@Stranger_Things hop told us to leave the door open 3 inches...you’re welcome https://t.co/N2Fv9XshWm,Stranger_Things hop told us leave door open 3 inches ... welcome,"Sentiment(polarity=0.4, subjectivity=0.7)",0.4,0.7,en,"Jaipur, India",
-1235099468674064384,@Roberts11Major @IGN @Stranger_Things @TEOTFW @netflix Mark Twain chose that name because it was the depth at which… https://t.co/26O2wzgNz6,Roberts11Major IGN Stranger_Things TEOTFW netflix Mark Twain chose name depth,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Middle of Nowhere, Universe",
-1235099260250501120,STRANGER THINGS,STRANGER THINGS,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Work Song ,
-1235099135906217984,"If masses like a TV show, it's a pretty good indication that it's shit. Ref: GoT, Stranger Things, Sex Education. 😁 https://t.co/Yyxvb15Jgr",If masses like TV show 's pretty good indication 's shit Ref GoT Stranger Things Sex Education,"Sentiment(polarity=0.25, subjectivity=0.8000000000000002)",0.25,0.8000000000000002,en,3rd world democracy,
-1235098970663223299,thanks for keeping up on my stranger things tweets 😂😂 @shoplifting__,thanks keeping stranger things tweets shoplifting__,"Sentiment(polarity=0.2, subjectivity=0.2)",0.2,0.2,en,"Austintown, OH",
-1235098829772316674,"Past, some vilages i know complained of this as it mks their wards not to marry intime so theyake a vow that any st… https://t.co/DYtoRh50ww",Past vilages know complained mks wards marry intime theyake vow st,"Sentiment(polarity=-0.275, subjectivity=0.225)",-0.275,0.225,en,Nigeria,"[[6.0865873, 8.9965736], [8.816134, 8.9965736], [8.816134, 11.5243811], [6.0865873, 11.5243811]]"
-1235098712222978048,Stranger things have happened...don't count it out. Strange that the Coronavirus popped into view not long after th… https://t.co/Pp89PvDyGx,Stranger things happened ... n't count Strange Coronavirus popped view long th,"Sentiment(polarity=-0.05, subjectivity=0.275)",-0.05,0.275,en,,
-1235098568731459584,@naval Biden chooses Obama as his running mate???? Stranger things have happened.,naval Biden chooses Obama running mate Stranger things happened,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Los Angeles, CA",
-1235098361839026176,พอดู stranger things ss3 จบ ชั้นก็คิดในใจว่า เมื่อไหร่ ss4 จะถ่ายเสร็จ ฮืออ อยากดูเเล้วๆๆๆ!!!!,stranger things ss3 ss4,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,th,เเจ๊คกี้พี่รักหนูนะครับ,
-1235098337373802496,@brucebusiness Inspired by Stranger Things perhaps?,brucebusiness Inspired Stranger Things perhaps,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Johannesburg, South Africa",
-1235098266720583680,It’s a cold pizza and stranger things kind of night and I’m not mad at it,It cold pizza stranger things kind night I mad,"Sentiment(polarity=-0.20833333333333334, subjectivity=0.9666666666666667)",-0.20833333333333334,0.9666666666666667,en,she/her,
-1235097873374560256,The Stranger Things star is a leader in the tamed mane department https://t.co/3RGSRxBFk6,The Stranger Things star leader tamed mane department,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"London, England",
-1235097648597569536,#StrangerThings arranca el rodaje de su cuarta temporada con un emotivo reencuentro https://t.co/D4xFrGeuiZ https://t.co/QTpF2YNEu5,StrangerThings start filming its fourth season with an emotional reunion,"Sentiment(polarity=0.0, subjectivity=0.325)",0.0,0.325,es,,
-1235097646076792832,"Cuatro teorías de Stranger Things 4
+gosto musi… https://t.co/PiZfdkV4xP",n qu similar are 10 points each apar INSTANCE 1.55 big hair dark brown eyes like musi,"Sentiment(polarity=-0.049999999999999996, subjectivity=0.3)",-0.049999999999999996,0.3,pt,ela / dela 研ぎ器,
+1249030785568591874,@SoyHugoOT2020 ¿viste stranger things?,SoyHugoOT2020 viste stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,✨patri✨,
+1249030756078366721,Stranger things🔥,Stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Huambo-Angola,
+1249030731562536960,episode terakhir stranger things season 3 sangat membantu buat mengekspresikan emosi gue saat ini,Stranger things the last episode of season 3 was very helpful for me today to express emotions,"Sentiment(polarity=0.1, subjectivity=0.18333333333333332)",0.1,0.18333333333333332,in,,
+1249030682237689858,"nossa eu lembro quando lançou a season 3 de stranger things os surtos e spoilers na tml, queria ter entrado no fandom naquela época",I remember when our lan or season 3 of stranger things outbreaks and spoilers in tml wanted to have entered fandom at that time,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,pt,toronto | pt/eng | amy ♡,
+1249030599429492737,j’aimerais oublier Stranger Things pour recommencer à zéro encore et encore,I'd like to forget Stranger Things to repeat again and again z ro,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,fr,,
+1249030534107447296,so i just found out finn wolfhard liked a post on my old stranger things fan account and i didn’t notice UNTIL FOUR YEARS LATER,found finn wolfhard liked post old stranger things fan account notice UNTIL FOUR YEARS LATER,"Sentiment(polarity=0.2333333333333333, subjectivity=0.3333333333333333)",0.2333333333333333,0.3333333333333333,en,she/her ,
+1249030442021539848,@hats316 @SonsofAnarchy @netflix @harleydavidson Stranger Things!!!,hats316 SonsofAnarchy netflix harleydavidson Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,UK,"[[-1.0046973, 52.1182397], [-0.9778307, 52.1182397], [-0.9778307, 52.1425163], [-1.0046973, 52.1425163]]"
+1249030388917440514,"STRANGER THINGS 
 
-https://t.co/L0v5RDrVWz",Stranger Things 4 cuatro content,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,es,Colombia,
-1235097485783130112,You know another great thing about Lord of the Rings? I get to see @SeanAstin live happily ever after UNLIKE in Str… https://t.co/LwYOqfBSkA,You know another great thing Lord Rings I get see SeanAstin live happily ever UNLIKE Str,"Sentiment(polarity=0.5787878787878787, subjectivity=0.75)",0.5787878787878787,0.75,en,Texas,
-1235097052373118984,"@chs__nf__ @Stranger_Things @TEOTFW 파실 생각 없으신가여 ,,,, 진짜 너무 예뻐요 ㅠㅠㅠㅠㅠㅠㅠㅠㅠ ♡",chs__nf__ Stranger_Things TEOTFW,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ko,,
-1235096880981278721,"Taart | Drip cake thema Stranger things!
-#strangerthings #eleven #hawkins #dripcake #verjaardagstaart #taart… https://t.co/E7akrdf7iZ",Taart Drip cake thema Stranger things strangerthings eleven hawkins dripcake verjaardagstaart taart,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Zeeland, Nederland","[[3.5753643, 51.4679489], [3.7469545, 51.4679489], [3.7469545, 51.5352237], [3.5753643, 51.5352237]]"
-1235096602143907840,Stranger Thingsをやっとシーズン3まで見終わったんだけどほんとにおもしろいなあれは！！,Stranger Things 3,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ja,,
-1235096536897351681,"||🍫:
-FirstFandom: Invader ZIM/Nmbc
-CurrentFandom: 
-Tnmbc, Tim Burton, Stop Motion, IT, Stranger Things, Sonic , and… https://t.co/IhiwALgJZ1",|| FirstFandom Invader ZIM/Nmbc CurrentFandom Tnmbc Tim Burton Stop Motion IT Stranger Things Sonic,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Treehouse ,
-1235096480710455297,sudden urge to marathon all of stranger things again,sudden urge marathon stranger things,"Sentiment(polarity=0.0, subjectivity=0.5)",0.0,0.5,en,,
-1235096198773493761,@Punters Dwayne with a sense of urgency on the runner up 🤔 stranger things have happened,Punters Dwayne sense urgency runner stranger things happened,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Victoria, Australia",
-1235096168314441728,@wutdfark The data doesn't agree with this but stranger things have happened,wutdfark The data n't agree stranger things happened,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235096039343845379,"It always seems like the odds are stacked against you, and you won't make it – for many reasons. The complexity of… https://t.co/1IgTRCwnCB",It always seems like odds stacked wo n't make many reasons The complexity,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,"Helsinki, Finland",
-1235095987409977345,@chadwick_014 @MoviesMatrix @SonsofAnarchy @GameOfThrones @ThePeakyBlinder @Stranger_Things @huntersonprime GOT Isn’t on Netflix though?,chadwick_014 MoviesMatrix SonsofAnarchy GameOfThrones ThePeakyBlinder Stranger_Things huntersonprime GOT Isn Netflix though,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,amsterdam ,
-1235095933727027201,@dxvidea12 estoy entre Breaking Bad y Stranger Things,dxvidea12 estoy entre Breaking Bad Stranger Things,"Sentiment(polarity=-0.6999999999999998, subjectivity=0.6666666666666666)",-0.6999999999999998,0.6666666666666666,en,,
-1235095861358542849,ซีรีส์เรื่องใหม่จาก #Netflix ที่น่าจับตามอง #IAmNotOkaywithThis กับทีมผู้สร้าง ซีรีส์สุดฮิตอย่าง Stranger Things แล… https://t.co/1YEIEeLHmR,Netflix IAmNotOkaywithThis Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,th,"Bangkok, Thailand",
-1235095497087406080,Não é nem por nada mas Im not ok with this é bem melhor que stranger things quem concorda nasceu https://t.co/7Cdi6dFzLa,N nor anything but Im ok much better than things stranger who agrees born,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,pt,Na merda ,
-1235094455578791936,"@NetflixBrasil @maisa Vocês: Netflix, quero Stranger Things 4 na minha mesa agora!
-
-Eu:",NetflixBrasil maisa You want Netflix Stranger Things 4 on my desk now I,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,pt,,
-1235094270555467777,Stranger Things theories: Murray to rescue Hopper from Russia as show drops big clue? https://t.co/TqTdN2xDo8 https://t.co/9HTt0Qq3XL,Stranger Things theories Murray rescue Hopper Russia show drops big clue,"Sentiment(polarity=0.0, subjectivity=0.1)",0.0,0.1,en,United Kingdom,
-1235093998986866689,"@SykeOnAir @NiallOfficial Was the font of the album inspired by stranger things, or is it just a coincidence?? 🙃
-#SykeAsksNiall",SykeOnAir NiallOfficial Was font album inspired stranger things coincidence SykeAsksNiall,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-id,original_text,clean_text,sentiment,polarity,subjectivity,lang,place,place_coord_boundaries
-1235110947812859904,"Il serait grand temps de recommencer tout Stranger Things pour la 4 ème fois la, pour se préparer mentalement à la suite",It is high time to start all Stranger Things to 4 times to pr mental ward after,"Sentiment(polarity=0.03, subjectivity=0.37)",0.03,0.37,fr,"Ile-de-France, France",
-1235110893953802241,@MoaVideos One of the most dangerous things for a candidate to do is speak to a stranger (even one who professes su… https://t.co/2pViJbk9jq,MoaVideos One dangerous things candidate speak stranger even one professes su,"Sentiment(polarity=-0.6, subjectivity=0.9)",-0.6,0.9,en,"San Diego, CA",
-1235110587564093440,"@moviemenfes harry potter, stranger things",moviemenfes harry potter stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235110485344669696,@rinthemodel Its by the directors of Stranger Things &amp; End of the F*cking World which makes sense cus it gave off E… https://t.co/YCJz2GmXYL,rinthemodel Its directors Stranger Things amp End F*cking World makes sense cus gave E,"Sentiment(polarity=-0.6, subjectivity=0.8)",-0.6,0.8,en,"Las Vegas, NV",
-1235110325025779714,@HealthPakStream I recently discovered the strange brilliance that is Horror Wave/Synth Horror. I especially enjoy… https://t.co/DP8h0tRfWG,HealthPakStream I recently discovered strange brilliance Horror Wave/Synth Horror I especially enjoy,"Sentiment(polarity=0.25, subjectivity=0.4666666666666666)",0.25,0.4666666666666666,en,Niedersachsen/NRW Deutschland,
-1235110083668758528,"@BrRibeiro21 @NetflixBrasil simm, uma mistura de the end of the fucking world e stranger things, pft dms",BrRibeiro21 NetflixBrasil simm uma mistura de end fucking world e stranger things pft dms,"Sentiment(polarity=-0.6, subjectivity=0.8)",-0.6,0.8,en,em outro patamar.,
-1235110029256085506,Can Netflix darme otra temporada de Stranger Things y de The Witcher por favor.,Can Netflix darme otra temporada de Stranger Things de The Witcher por favor,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235109880052084737,"Okay hear me out y'all. So pakadto ko sa Christ The King ha and so nagsakay ko bus. And after I found a seat, I wat… https://t.co/fbxaAemCFS",Okay hear y'all So pakadto ko sa Christ The King ha nagsakay ko bus And I found seat I wat,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,"전주시, 대한민국 ",
-1235109809206087680,"Inicio del rodaje de #StrangerThings temporada 4
-#Netflix lo anuncia con un pequeño vídeo de la lectura del guión.… https://t.co/NOS2iE88ND",Start filming season 4 StrangerThings Netflix announced it with a small v deo reading the gui n,"Sentiment(polarity=-0.25, subjectivity=0.4)",-0.25,0.4,es,"Madrid, Comunidad de Madrid",
-1235109746778099712,Have you heard ‘The Stranger Things Mixtape’ by DJ Yoda (UK) on #SoundCloud? #np https://t.co/28VFPTvZU2,Have heard The Stranger Things Mixtape DJ Yoda UK SoundCloud np,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,USA,
-1235109728407019520,meu Deus a FONTE DE STRANGER THINGS https://t.co/ZolPN3MNkv,God STRANGER THINGS SOURCE,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,pt,Hell,
-1235109719183888385,@Barbara4u2 I didn't know you were in Stranger Things 😁 https://t.co/jXPp9FBWIL,Barbara4u2 I n't know Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Scotland,
-1235109712120537088,Have you heard ‘stranger things’ by haven on #SoundCloud? #np https://t.co/PARl8CBGON,Have heard stranger things SoundCloud np,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,USA,
-1235109612157693957,@SylvieGelinet @WereldPijnCafe @Wandaspangler2 @GraceAlijah @LieDete86289015 @DIRECTD3MOCRACY @Si_or_just_Si… https://t.co/WpSuh73yVU,SylvieGelinet WereldPijnCafe Wandaspangler2 GraceAlijah LieDete86289015 DIRECTD3MOCRACY Si_or_just_Si,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235109600744992769,sis started therapy. took me years to convince myself into it. to build up enough will power to walk up to a strang… https://t.co/8flCo7iwFX,sis started therapy took years convince build enough power walk strang,"Sentiment(polarity=0.0, subjectivity=0.5)",0.0,0.5,en,gotham city,
-1235109468507013120,@ccIetus Sadly was never really a fan of stranger things...,ccIetus Sadly never really fan stranger things ...,"Sentiment(polarity=-0.1, subjectivity=0.2)",-0.1,0.2,en,aaaaaaaaaaaa,
-1235109095847448578,@iiPaola_10 @lacasadepapel Como... como no se haya marcado un hopper en stranger things... no se que decirte,iiPaola_10 lacasadepapel As ... as you have set a hopper in stranger things ... I am to tell,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,es,,
-1235108904935145472,Gi ignan kog mura daw kog si billy sa stranger things hahaha,"Gi is asking me cheap, I like billy stranger things hahaha","Sentiment(polarity=0.30000000000000004, subjectivity=0.55)",0.30000000000000004,0.55,tl,somewhere over the rainbow🌈,
-1235108833556443136,Elenco se reúne para mesa de leitura da 4ª temporada de Stranger Things https://t.co/GL6BCGwYmB #StrangerThings4,Cast se ne for table reading 4 season Stranger Things StrangerThings4,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,pt,,
-1235108778011291650,@iameduardoo @folha Stranger things - são crianças numa série de ficção científica vai pra 4° e talvez última tempo… https://t.co/SvZHaIwklB,Stranger things iameduardoo leaf child in a series of fic cient is going to 4 and perhaps last time,"Sentiment(polarity=0.0, subjectivity=0.06666666666666667)",0.0,0.06666666666666667,pt,,
-1235108698986598402,stranger things  https://t.co/6RIpNazlNL,stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235108116611493888,"【自分メモ】
-
-CRIMINAL MINDS
-HANNIBAL
-FIVE-0
-LUCIFER
-SUPER NATURAL
-THE WITCHER
-SHADOW HANTERS
-NIGHT SHIFT
-SHERLOCK
-STRANG… https://t.co/XwPPrWEPiP",CRIMINAL MINDS HANNIBAL FIVE-0 LUCIFER SUPERNATURAL THE WITCHER SHADOWHUNTERS NIGHT SHIFT SHERLOCK STRANG,"Sentiment(polarity=-0.11666666666666668, subjectivity=0.5583333333333333)",-0.11666666666666668,0.5583333333333333,ja,魔法界⇔夢の国,
-1235107892891537413,want to feel what i first felt when i watched stranger things for the first time in 2016,want feel first felt watched stranger things first time 2016,"Sentiment(polarity=0.25, subjectivity=0.3333333333333333)",0.25,0.3333333333333333,en,lani ♡ 21.01.20,
-1235107802772721664,@Stranger_Things I love this cast so much ❤️,Stranger_Things I love cast much,"Sentiment(polarity=0.35, subjectivity=0.4)",0.35,0.4,en,,
-1235107755096240129,@Stranger_Things @bIythesanne YESSSSYESYESYES,Stranger_Things bIythesanne YESSSSYESYESYES,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ht,,
-1235107406075420672,@Skoog She’s the mind power girl from Stranger Things.,Skoog She mind power girl Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Pocket,
-1235107106459512833,"Stranger Things.
-
-C'est vachement bien.",Stranger Things That is pretty darn good,"Sentiment(polarity=0.475, subjectivity=0.8)",0.475,0.8,fr,"Au fond, à gauche.",
-1235106920064671744,"Stranger things season 4 is really happening and I’m gonna have a stranger things 4 party for the Premiere, everyone’s invited",Stranger things season 4 really happening I gon na stranger things 4 party Premiere everyone invited,"Sentiment(polarity=0.2, subjectivity=0.2)",0.2,0.2,en,Canyon moon ,
-1235106851148066816,"Ya podéis ir frotándoos las manos, que el rodaje de #StrangerThings4 ha comenzado. https://t.co/nCweFDWVJj https://t.co/GwZdpeV3aK",Pod and go ndoos rubbed his hands that filming has begun StrangerThings4,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,es,España,
-1235106640027774976,@Stranger_Things 😭😭,Stranger_Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,und,,
-1235106496423157760,"Stranger Things Season 4: Cast reunites for table read. Watch video
-https://t.co/GgsegjIoTN",Stranger Things Season 4 Cast reunites table read Watch video,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Delhi, India",
-1235106470384951298,Would you join me in spreading awareness #AutismAwareness  #MyVoice @DjSoxxy @Stranger_Things @andyspeaks4… https://t.co/IgQq6xyYIL,Would join spreading awareness AutismAwareness MyVoice DjSoxxy Stranger_Things andyspeaks4,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Nairobi,
-1235106392693825536,"Und wenn du singen kannst, dann sing! @theesuhlmann - was ein Tanz im Colos Saal!
-*(muss immer noch an die Stranger… https://t.co/UgW6hXZXpZ",And when you sing you still can then sing theesuhlmann a dance hall in Colos must Stranger,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,de,"Darmstadt, Deutschland",
-1235106219200634881,"@moviemenfes stranger things, riverdale, i am not okay with this, maze runner, divergent, maze runner, game of thro… https://t.co/1Z2HWveIg2",moviemenfes stranger things riverdale okay maze runner divergent maze runner game thro,"Sentiment(polarity=0.04999999999999999, subjectivity=0.45)",0.04999999999999999,0.45,en,"Bandung, Indonesia",
-1235106153324929024,super 8 walked so stranger things could run,super 8 walked stranger things could run,"Sentiment(polarity=0.3333333333333333, subjectivity=0.6666666666666666)",0.3333333333333333,0.6666666666666666,en,,
-1235106100502048768,"Весь актерский состав пока вместе. 
-https://t.co/n6RsHMuPb7",,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ru,"Москва, Россия",
-1235105847606267906,Millie Bobby brown backstage of stranger things https://t.co/WI2uVsER7V,Millie Bobby brown backstage stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,nigger area,
-1235105661366624256,My brother and I made a deal that he’d watch one season of stranger things if I watched one season of aos then I go… https://t.co/Zk8EUk88X6,My brother I made deal watch one season stranger things I watched one season aos I go,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Multifandom asf,
-1235105477945520128,"I forgot the guy from fleabag is also in stranger things.
-
-I also forgot his name. Sorry. https://t.co/Sd6BmU5sry",I forgot guy fleabag also stranger things I also forgot name Sorry,"Sentiment(polarity=-0.5, subjectivity=1.0)",-0.5,1.0,en,,
-1235105442281340928,ชอบดู stranger things ตอนกินข้าว แล้วก็กินไม่ลง เป็นบ้า,stranger things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,th,,
-1235105339663499264,"@tatifernandes_ @NetflixBrasil Orphan Black , The100, ponto cego,  Anne with an e, Locke e key ,   stranger things… https://t.co/6HEqHqpyXu",tatifernandes_ NetflixBrasil Orphan Black The100 ponto cego Anne e Locke e key stranger things,"Sentiment(polarity=-0.08333333333333333, subjectivity=0.7166666666666667)",-0.08333333333333333,0.7166666666666667,en,"Nova Iguaçu, Brasil",
-1235105171467689984,"I sadly just realized that I couldn’t give less of a fuck about Stranger Things 4. 3 was such a trashfire, I don’t even care anymore 😔",I sadly realized I give less fuck Stranger Things 4 3 trashfire I even care anymore,"Sentiment(polarity=-0.35555555555555557, subjectivity=0.5555555555555555)",-0.35555555555555557,0.5555555555555555,en,"Cape Town, South Africa",
-1235105048050282497,Je rereregarde Stranger Things,Je rereregarde Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,no,"Angoulême, France",
-1235104981377785856,"I left my cave today and a borderline stranger said they would ""buy me things"" and now I'm hiding back in my cave t… https://t.co/HYCPlI2NSw",I left cave today borderline stranger said would `` buy things '' I 'm hiding back cave,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Miami, FL",
-1235104881775480832,@77Perrygirl Sending lots of love and big hugs to you . I know I am a stranger in the real world but we can relate… https://t.co/7lp0jWVtS3,77Perrygirl Sending lots love big hugs I know I stranger real world relate,"Sentiment(polarity=0.2333333333333333, subjectivity=0.3333333333333333)",0.2333333333333333,0.3333333333333333,en,"England, United Kingdom",
-1235104728800825344,Non Donia regarder Stranger Things tous les jours ne va pas guérir y’a dépression.,No Stranger Things Donia watch every day is not going gu er pressure,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,fr,Lost Somewhere ,
-1235104561943068673,@Stranger_Things Bro will better be in the storyline if not I dont know but this is my reaction to the last season,Stranger_Things Bro better storyline I dont know reaction last season,"Sentiment(polarity=0.25, subjectivity=0.2833333333333333)",0.25,0.2833333333333333,en,,
-1235104527348457472,@Stranger_Things Trop hâte au mon dieu je le savait,Too pm Stranger_Things you to my god I knew,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,fr,,
-1235104397752856577,@Stranger_Things Make a scene where Mike or anh other character throws a toy ambulance at eleven I am begging you,Stranger_Things Make scene Mike anh character throws toy ambulance eleven I begging,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235104161844224000,@rJHJVX93U0GdMXE @Stranger_Things @TEOTFW 가능하면 해볼게요..!,rJHJVX93U0GdMXE Stranger_Things TEOTFW ..,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ko,,
-1235104009871953920,I got Will Byers! https://t.co/1Wket0jnPC,I got Will Byers,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"2020?? masih di jurang :"")",
-1235103973331230721,Tahun ini nunggu Money Heist season 4 dan Stranger Things season 4,This year waiting Money Heist Stranger Things season 4 and season 4,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,in,Indonesia,
-1235103598620446720,"@rothyie hshsh, I'm glad that we're friends. 🥺 I've watched Harry Potter but I haven't gotten the chance to watch S… https://t.co/YWZyygISbF",rothyie hshsh I 'm glad 're friends I 've watched Harry Potter I n't gotten chance watch S,"Sentiment(polarity=0.5, subjectivity=1.0)",0.5,1.0,en,𝐁𝐈𝐋.,
-1235103597337047040,Waiting to get the “who’s that about” messages and people trying to figure out who I’m talking about when in realit… https://t.co/2y1EErNEHm,Waiting get messages people trying figure I talking realit,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235103538063134720,Millennials do really stupid things then come to social media to massage their ego. You have no right whatsoever to… https://t.co/wwgmcZDTXr,Millennials really stupid things come social media massage ego You right whatsoever,"Sentiment(polarity=-0.1603174603174603, subjectivity=0.5341269841269841)",-0.1603174603174603,0.5341269841269841,en,"Lagos, Nigeria",
-1235103299365244933,@Stranger_Things Realease the season 4 ASAP,Stranger_Things Realease season 4 ASAP,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Mumbai, India",
-1235102924977496066,"Estoy mirando Stranger Things y les justo que tengo miedo, esto de vivir sola",I'm looking at them right Stranger Things I'm afraid this living alone,"Sentiment(polarity=-0.15714285714285714, subjectivity=0.7178571428571429)",-0.15714285714285714,0.7178571428571429,es,Argentina.,
-1235102817775267842,I was one of the cast of stranger things. I was soooo ready to fight those ugly ass monsters until nagpatugtog ng m… https://t.co/qkiRNBepO3,I one cast stranger things I soooo ready fight ugly ass monsters nagpatugtog ng,"Sentiment(polarity=-0.24999999999999997, subjectivity=0.75)",-0.24999999999999997,0.75,en,"Las Pinas City, National Capital Region",
-1235102763782045696,is sikowitz in stranger things season four,sikowitz stranger things season four,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,manchester,
-1235102533099503616,"@fuzzballsoren 1. Stranger Things
-2. Bojack Horseman
-3. The Promised Neverland",fuzzballsoren 1 Stranger Things 2 Bojack Horseman 3 The Promised Neverland,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,The Trash Bin,
-1235102286679953408,"@MissLatinaFey Legends of Tomorrow, Cable Girls, The Shannara Chronicles, The Haunting of Hill House, Supergirl, Am… https://t.co/KJYTde08NH",MissLatinaFey Legends Tomorrow Cable Girls The Shannara Chronicles The Haunting Hill House Supergirl Am,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Portland, OR",
-1235102097101774848,3 Panels Cartoon Picture Horror Movie Poster STRANGER THINGS Picture Oil Painting Wall Art Home Decor Bedroom Decor… https://t.co/1XFjJhYEIY,3 Panels Cartoon Picture Horror Movie Poster STRANGER THINGS Picture Oil Painting Wall Art Home Decor Bedroom Decor,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235101340054908928,Stranger things is such an amazing show  ngl the way they balance comedy and thriller is something else and they ke… https://t.co/XMsDr59Mu0,Stranger things amazing show ngl way balance comedy thriller something else ke,"Sentiment(polarity=0.6000000000000001, subjectivity=0.9)",0.6000000000000001,0.9,en,"Lagos, Nigeria",
-1235101137398714370,A Stranger Things 4. évadának olvasópróbáján családias a hangulat - https://t.co/eUHwrroZou,Stranger Things fourth wild has reading PR j n b dias mood cheats,"Sentiment(polarity=0.05, subjectivity=0.2)",0.05,0.2,hu,Budapest,
-1235101012081303553,@Babethsi @_bele___ @4rbeitsamt @Choco_Cino @chuzpe_0 @C_Giog @marseltoph @unvrsvndlch @Scoutsen1 @reinheizgebot… https://t.co/fUYAIyTs2i,Babethsi _bele___ 4rbeitsamt Choco_Cino chuzpe_0 C_Giog marseltoph unvrsvndlch Scoutsen1 reinheizgebot,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,de,"Wien, Österreich",
-1235100658170122242,@Uppercut07 I was honestly shocked at how bad it was. But I gotta admit I like Stranger Things for the nostalgia trip :P,Uppercut07 I honestly shocked bad But I got ta admit I like Stranger Things nostalgia trip P,"Sentiment(polarity=-0.7, subjectivity=0.7333333333333334)",-0.7,0.7333333333333334,en,Sri Lanka,
-1235100602104836097,"since everyone is asking, kat deactivated her account because stranger things fans had attacked her because she sim… https://t.co/64QgHPAn1i",since everyone asking kat deactivated account stranger things fans attacked sim,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,𝟎𝟑𝟏𝟑𝟏𝟗,
-1235100434001346561,@Stranger_Things @poupard_mlanie !!,Stranger_Things poupard_mlanie,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,und,,
-1235100215218073601,@BHarieth Regardless of who wins for Democratic Party. I feel people just aren’t going to vote unless it’s the Demo… https://t.co/7EfIcNUUeC,BHarieth Regardless wins Democratic Party I feel people going vote unless Demo,"Sentiment(polarity=0.3, subjectivity=0.2)",0.3,0.2,en,Sunshine State,
-1235100182716407809,Şu videoyu stranger things seven arkadaşıma izlettim dedi ki bu çocukları neden bu kadar çok sevdiğini anlayabiliyo… https://t.co/ouXjaiUKiR,"u watch the video of the stranger things I've said, these children are loving friend why it is so loved the arrows in the anlayabiliyo","Sentiment(polarity=0.6499999999999999, subjectivity=0.875)",0.6499999999999999,0.875,tr,tartarus,
-1235099851936813056,y’all wish noah from stranger things snapped you personally https://t.co/NsOrpaG2rv,wish noah stranger things snapped personally,"Sentiment(polarity=0.0, subjectivity=0.3)",0.0,0.3,en,ly 180909💫 ; sy 190505 ✨,
-1235099806994796545,When Fan Girl follows the real world I am still searching and waiting for that next TV show to unite us all. Since… https://t.co/lDDvZkWuc9,When Fan Girl follows real world I still searching waiting next TV show unite us Since,"Sentiment(polarity=0.1, subjectivity=0.15000000000000002)",0.1,0.15000000000000002,en,Philippines,
-1235099607492780033,@Stranger_Things hop told us to leave the door open 3 inches...you’re welcome https://t.co/N2Fv9XshWm,Stranger_Things hop told us leave door open 3 inches ... welcome,"Sentiment(polarity=0.4, subjectivity=0.7)",0.4,0.7,en,"Jaipur, India",
-1235099468674064384,@Roberts11Major @IGN @Stranger_Things @TEOTFW @netflix Mark Twain chose that name because it was the depth at which… https://t.co/26O2wzgNz6,Roberts11Major IGN Stranger_Things TEOTFW netflix Mark Twain chose name depth,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Middle of Nowhere, Universe",
-1235099260250501120,STRANGER THINGS,STRANGER THINGS,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Work Song ,
-1235099135906217984,"If masses like a TV show, it's a pretty good indication that it's shit. Ref: GoT, Stranger Things, Sex Education. 😁 https://t.co/Yyxvb15Jgr",If masses like TV show 's pretty good indication 's shit Ref GoT Stranger Things Sex Education,"Sentiment(polarity=0.25, subjectivity=0.8000000000000002)",0.25,0.8000000000000002,en,3rd world democracy,
-1235098970663223299,thanks for keeping up on my stranger things tweets 😂😂 @shoplifting__,thanks keeping stranger things tweets shoplifting__,"Sentiment(polarity=0.2, subjectivity=0.2)",0.2,0.2,en,"Austintown, OH",
-1235098829772316674,"Past, some vilages i know complained of this as it mks their wards not to marry intime so theyake a vow that any st… https://t.co/DYtoRh50ww",Past vilages know complained mks wards marry intime theyake vow st,"Sentiment(polarity=-0.275, subjectivity=0.225)",-0.275,0.225,en,Nigeria,"[[6.0865873, 8.9965736], [8.816134, 8.9965736], [8.816134, 11.5243811], [6.0865873, 11.5243811]]"
-1235098712222978048,Stranger things have happened...don't count it out. Strange that the Coronavirus popped into view not long after th… https://t.co/Pp89PvDyGx,Stranger things happened ... n't count Strange Coronavirus popped view long th,"Sentiment(polarity=-0.05, subjectivity=0.275)",-0.05,0.275,en,,
-1235098568731459584,@naval Biden chooses Obama as his running mate???? Stranger things have happened.,naval Biden chooses Obama running mate Stranger things happened,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Los Angeles, CA",
-1235098361839026176,พอดู stranger things ss3 จบ ชั้นก็คิดในใจว่า เมื่อไหร่ ss4 จะถ่ายเสร็จ ฮืออ อยากดูเเล้วๆๆๆ!!!!,stranger things ss3 ss4,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,th,เเจ๊คกี้พี่รักหนูนะครับ,
-1235098337373802496,@brucebusiness Inspired by Stranger Things perhaps?,brucebusiness Inspired Stranger Things perhaps,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Johannesburg, South Africa",
-1235098266720583680,It’s a cold pizza and stranger things kind of night and I’m not mad at it,It cold pizza stranger things kind night I mad,"Sentiment(polarity=-0.20833333333333334, subjectivity=0.9666666666666667)",-0.20833333333333334,0.9666666666666667,en,she/her,
-1235097873374560256,The Stranger Things star is a leader in the tamed mane department https://t.co/3RGSRxBFk6,The Stranger Things star leader tamed mane department,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"London, England",
-1235097648597569536,#StrangerThings arranca el rodaje de su cuarta temporada con un emotivo reencuentro https://t.co/D4xFrGeuiZ https://t.co/QTpF2YNEu5,StrangerThings start filming its fourth season with an emotional reunion,"Sentiment(polarity=0.0, subjectivity=0.325)",0.0,0.325,es,,
-1235097646076792832,"Cuatro teorías de Stranger Things 4
-
-https://t.co/L0v5RDrVWz",Stranger Things 4 cuatro content,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,es,Colombia,
-1235097485783130112,You know another great thing about Lord of the Rings? I get to see @SeanAstin live happily ever after UNLIKE in Str… https://t.co/LwYOqfBSkA,You know another great thing Lord Rings I get see SeanAstin live happily ever UNLIKE Str,"Sentiment(polarity=0.5787878787878787, subjectivity=0.75)",0.5787878787878787,0.75,en,Texas,
-1235097052373118984,"@chs__nf__ @Stranger_Things @TEOTFW 파실 생각 없으신가여 ,,,, 진짜 너무 예뻐요 ㅠㅠㅠㅠㅠㅠㅠㅠㅠ ♡",chs__nf__ Stranger_Things TEOTFW,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ko,,
-1235096880981278721,"Taart | Drip cake thema Stranger things!
-#strangerthings #eleven #hawkins #dripcake #verjaardagstaart #taart… https://t.co/E7akrdf7iZ",Taart Drip cake thema Stranger things strangerthings eleven hawkins dripcake verjaardagstaart taart,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Zeeland, Nederland","[[3.5753643, 51.4679489], [3.7469545, 51.4679489], [3.7469545, 51.5352237], [3.5753643, 51.5352237]]"
-1235096602143907840,Stranger Thingsをやっとシーズン3まで見終わったんだけどほんとにおもしろいなあれは！！,Stranger Things 3,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,ja,,
-1235096536897351681,"||🍫:
-FirstFandom: Invader ZIM/Nmbc
-CurrentFandom: 
-Tnmbc, Tim Burton, Stop Motion, IT, Stranger Things, Sonic , and… https://t.co/IhiwALgJZ1",|| FirstFandom Invader ZIM/Nmbc CurrentFandom Tnmbc Tim Burton Stop Motion IT Stranger Things Sonic,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,Treehouse ,
-1235096480710455297,sudden urge to marathon all of stranger things again,sudden urge marathon stranger things,"Sentiment(polarity=0.0, subjectivity=0.5)",0.0,0.5,en,,
-1235096198773493761,@Punters Dwayne with a sense of urgency on the runner up 🤔 stranger things have happened,Punters Dwayne sense urgency runner stranger things happened,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,"Victoria, Australia",
-1235096168314441728,@wutdfark The data doesn't agree with this but stranger things have happened,wutdfark The data n't agree stranger things happened,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
-1235096039343845379,"It always seems like the odds are stacked against you, and you won't make it – for many reasons. The complexity of… https://t.co/1IgTRCwnCB",It always seems like odds stacked wo n't make many reasons The complexity,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,en,"Helsinki, Finland",
-1235095987409977345,@chadwick_014 @MoviesMatrix @SonsofAnarchy @GameOfThrones @ThePeakyBlinder @Stranger_Things @huntersonprime GOT Isn’t on Netflix though?,chadwick_014 MoviesMatrix SonsofAnarchy GameOfThrones ThePeakyBlinder Stranger_Things huntersonprime GOT Isn Netflix though,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,amsterdam ,
-1235095933727027201,@dxvidea12 estoy entre Breaking Bad y Stranger Things,dxvidea12 estoy entre Breaking Bad Stranger Things,"Sentiment(polarity=-0.6999999999999998, subjectivity=0.6666666666666666)",-0.6999999999999998,0.6666666666666666,en,,
-1235095861358542849,ซีรีส์เรื่องใหม่จาก #Netflix ที่น่าจับตามอง #IAmNotOkaywithThis กับทีมผู้สร้าง ซีรีส์สุดฮิตอย่าง Stranger Things แล… https://t.co/1YEIEeLHmR,Netflix IAmNotOkaywithThis Stranger Things,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,th,"Bangkok, Thailand",
-1235095497087406080,Não é nem por nada mas Im not ok with this é bem melhor que stranger things quem concorda nasceu https://t.co/7Cdi6dFzLa,N nor anything but Im ok much better than things stranger who agrees born,"Sentiment(polarity=0.5, subjectivity=0.5)",0.5,0.5,pt,Na merda ,
-1235094455578791936,"@NetflixBrasil @maisa Vocês: Netflix, quero Stranger Things 4 na minha mesa agora!
-
-Eu:",NetflixBrasil maisa You want Netflix Stranger Things 4 on my desk now I,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,pt,,
+Em novembro de 1983, na pequena cidade chamada Hawkins, Lucas, Mike, Dustin e Will são muito amig… https://t.co/FfppEnecPo",STRANGER THINGS In November 1983 in the small town of Hawkins Dustin Mike Lucas and Will very frie,"Sentiment(polarity=-0.024999999999999994, subjectivity=0.35)",-0.024999999999999994,0.35,pt,,
+1249030287058554880,Sumpah baru nntn stranger things dan seseru itu 😭😭,New oath nntn stranger things and as violent as it was,"Sentiment(polarity=-0.33181818181818185, subjectivity=0.7272727272727273)",-0.33181818181818185,0.7272727272727273,in,Jakarta Capital Region,
+1249030214493011968,@EweKatox @TheArias04 Es la de Stranger Things (Creo),EweKatox TheArias04 Is Stranger Things I,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,es,,
+1249030129277456384,"@lisoca Amigos ninguém vai entender, mas ponto cego sim, ponto cego tudo bem, tanto que na propria neflix tá ponto… https://t.co/t0n4nCyuvE",lisoca Friends nobody will understand but rather blind spot blind spot all right so that in the very point neflix,"Sentiment(polarity=-0.12857142857142856, subjectivity=0.5422619047619047)",-0.12857142857142856,0.5422619047619047,pt,conexão RJ/SP,
+1249030091146956806,@NetflixFR STRANGER THINGS 🥰🙈,NetflixFR STRANGER THINGS,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,
+1249030018614910976,@anissapeep @langfrd So if a watch stranger things and them jump off a roof can my family blame the show,anissapeep langfrd So watch stranger things jump roof family blame show,"Sentiment(polarity=0.0, subjectivity=0.0)",0.0,0.0,en,,

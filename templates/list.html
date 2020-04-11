@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block navcontents %}
+<a href="./">Home</a>
+<a class="active" href="./list">List</a>
+{% endblock %}
+
+{% block head %}{% endblock %}
+
+{% block body %}
+
+{%for names in showlist%}
+<p>{{names}}</p>
+{% endfor %}
+
+{% endblock %}

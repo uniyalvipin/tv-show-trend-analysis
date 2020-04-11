@@ -1,0 +1,6 @@
+nltk
+pandas
+tweepy
+textblob
+googletrans
+emot

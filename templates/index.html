@@ -1,0 +1,52 @@
+{% extends 'base.html' %}
+
+{% block navcontents %}
+<a class="active" href="./">Home</a>
+<a href="./list">List</a>
+{% endblock %}
+
+{% block head %}
+
+<link href="{{ url_for('static', filename='preloader.css') }}" rel="stylesheet">
+
+{% endblock %}
+
+{% block body %}
+
+<div class="form">
+   <form action="/" method="POST">
+         <p>
+         Enter Name of the TV Show
+         <br>
+          <input list="tv shows" name="query">
+         <datalist id="tv shows">
+            <option value ='adventure time'>
+
+            <option value ='akbaraurbirbal'>
+
+            <option value ='Altered Carbon'>
+
+            <option value ='breaking bad'>
+
+            <option value ='game of thrones'>
+
+            <option value ='Goblin Slayer'>
+
+            <option value ='modi'>
+
+            <option value ='October Faction'>
+
+            <option value ='rick and morty'>
+
+            <option value ='Stranger Things'>
+         </datalist>
+         <script src="{{ url_for('static', filename='preloader.js') }}"></script>
+         <input type="submit" value="Submit" />
+         <br>
+
+   </form>
+   <button onclick="document.location = './result'">Show Graphs</button>
+</div>
+
+
+{% endblock %}
