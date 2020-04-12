@@ -3,6 +3,7 @@
 {% block navcontents %}
 <a class="active" href="./">Home</a>
 <a href="./list">List</a>
+<a href="./about">Description</a>
 {% endblock %}
 
 {% block head %}
@@ -15,10 +16,11 @@
 
 <div class="form">
    <form action="/" method="POST">
-         <p>
-         Enter Name of the TV Show
+         <p style="color:white;"><b>
+             Enter Name of the TV Show</b>
          <br>
-          <input list="tv shows" name="query">
+         <br>
+          <input list="tv shows" name="query" placeholder="Enter here">
          <datalist id="tv shows">
             <option value ='adventure time'>
 
@@ -41,11 +43,11 @@
             <option value ='Stranger Things'>
          </datalist>
          <script src="{{ url_for('static', filename='preloader.js') }}"></script>
-         <input type="submit" value="Submit" />
+         <input type="submit" value="Search" style="color:white;" />
          <br>
 
    </form>
-   <button onclick="document.location = './result'">Show Graphs</button>
+   <button class="button" onclick="document.location = './result'">Show Graphs</button>
 </div>
 
 

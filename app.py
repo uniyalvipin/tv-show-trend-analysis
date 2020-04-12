@@ -48,11 +48,6 @@ def favicon():
 
 @app.route('/result', methods=['POST', 'GET'])
 def result():
-    '''resultlist = []
-    if request.method == 'POST':
-        query = request.form['query']
-        if query not in dirwalk.showslist():
-            resultlist = fetch.main(query)'''
     return render_template("result.html", query=query, tweets_count=resultlist[0], avgpol=resultlist[1],
                            avgsub=resultlist[2], pol=resultlist[3])
 
@@ -61,6 +56,11 @@ def result():
 def list():
     showlist = dirwalk.showslist()
     return render_template("list.html", showlist=showlist)
+
+
+@app.route('/about')
+def about():
+    return render_template("about.html")
 
 
 if __name__ == '__main__':
