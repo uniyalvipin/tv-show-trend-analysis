@@ -24,13 +24,15 @@ def main():
         if query not in dirwalk.showslist():
             resultlist = fetch.main(query)
         else:
-            df=pd.read_csv('data/'+query+'.csv')
+            df = pd.read_csv('data/' + query + '.csv')
             resultlist.append(len(df))
+            df["polarity"] = pd.to_numeric(df["polarity"], errors='coerce')
+            df["subjectivity"] = pd.to_numeric(df["subjectivity"], errors='coerce')
             resultlist.append(df["polarity"].mean())
             resultlist.append(df['subjectivity'].mean())
-            if int(resultlist[1]) > 0:
+            if float(resultlist[1]) > 0:
                 resultlist.append('Positive')
-            elif int(resultlist[1]) == 0:
+            elif float(resultlist[1]) == 0:
                 resultlist.append('Neutral')
             else:
                 resultlist.append('Negative')
@@ -63,4 +65,3 @@ def list():
 
 if __name__ == '__main__':
     app.run(debug=True)
-

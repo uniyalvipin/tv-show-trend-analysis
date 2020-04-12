@@ -78,6 +78,8 @@ def write_tweets(keyword, file):
 
             single_tweet_df = pd.DataFrame([new_entry], columns=COLS)
             df = df.append(single_tweet_df, ignore_index=True)
+    df["polarity"] = pd.to_numeric(df["polarity"], errors='coerce')
+    df["subjectivity"] = pd.to_numeric(df["subjectivity"], errors='coerce')
     csvFile = open(file, 'a', encoding='utf-8')
     df.to_csv(csvFile, mode='a', columns=COLS, index=False, encoding="utf-8")
     no_of_rows=len(df)
