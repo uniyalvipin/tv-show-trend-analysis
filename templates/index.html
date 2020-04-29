@@ -23,8 +23,7 @@
           <input list="tv shows" name="query" placeholder="Enter here">
          <datalist id="tv shows">
             {%for show in showslist%}
-
-               <option value='show'>
+               <option value='{{show}}'>
             {%endfor%}
          </datalist>
          <script src="{{ url_for('static', filename='preloader.js') }}"></script>

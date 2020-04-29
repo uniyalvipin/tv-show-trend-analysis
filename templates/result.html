@@ -30,7 +30,14 @@
    <p>Average Polarity: <b>{{avgpol}}</b></p>
    <p>Average Subjectivity: <b>{{avgsub}}</b></p>
    <p>Overall Sentiment: <b>{{pol}}</b></p>
+   <br>
+   <figure>
+   <img src="/plot1.png" alt="my plot"><br><br>
+   <figcaption style="color: white; font-size: 25px; font-family: 'Sen';">Graph 1. Polarity of Tweets</figcaption>
+   </figure>
+   <br><br><br><br>
 </div>
+
 <script src="{{ url_for('static', filename='preloader.js') }}"></script>
 
 {% endblock %}

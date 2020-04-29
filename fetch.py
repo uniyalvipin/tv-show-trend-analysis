@@ -35,6 +35,7 @@ def write_tweets(keyword, file):
     for page in tweepy.Cursor(api.search, q, count=5, include_rts=False).pages(5):
 
         for status in page:
+            #print("fetching")
             new_entry = []
             status = status._json
 

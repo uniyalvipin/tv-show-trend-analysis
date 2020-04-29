@@ -1,23 +1,21 @@
 import os
-from flask import Flask, render_template, request, send_from_directory
+from flask import Flask, render_template, request, send_from_directory, Response
 import fetch
 import dirwalk
 import pandas as pd
+import io
+import cplot
+from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 
 app = Flask(__name__)
 
 resultlist = []
-query = " "
-
-
-@app.route('/')
-def home():
-    return render_template('index.html')
+query = ""
 
 
 @app.route('/')
 def main():
-    return render_template('index.html',showslist=dirwalk.showslist())
+    return render_template('index.html', showslist=dirwalk.showslist())
 
 
 # favicon route
@@ -50,6 +48,14 @@ def result():
                 resultlist.append('Negative')
     return render_template("result.html", query=query, tweets_count=resultlist[0], avgpol=resultlist[1],
                            avgsub=resultlist[2], pol=resultlist[3])
+
+
+@app.route('/plot1.png')
+def plot_png1():
+    fig = cplot.create_figure1(query)
+    output = io.BytesIO()
+    FigureCanvas(fig).print_png(output)
+    return Response(output.getvalue(), mimetype='image/png')
 
 
 @app.route('/list')
