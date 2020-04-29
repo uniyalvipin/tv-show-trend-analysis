@@ -15,40 +15,22 @@
 {% block body %}
 
 <div class="form">
-   <form action="/" method="POST">
+   <form action="./result" method="POST">
          <p style="color:white;"><b>
              Enter Name of the TV Show</b>
          <br>
          <br>
           <input list="tv shows" name="query" placeholder="Enter here">
          <datalist id="tv shows">
-            <option value ='adventure time'>
+            {%for show in showslist%}
 
-            <option value ='akbaraurbirbal'>
-
-            <option value ='Altered Carbon'>
-
-            <option value ='breaking bad'>
-
-            <option value ='game of thrones'>
-
-            <option value ='Goblin Slayer'>
-
-            <option value ='modi'>
-
-            <option value ='October Faction'>
-
-            <option value ='rick and morty'>
-
-            <option value ='Stranger Things'>
+               <option value='show'>
+            {%endfor%}
          </datalist>
          <script src="{{ url_for('static', filename='preloader.js') }}"></script>
          <input type="submit" value="Search" style="color:white;" />
          <br>
-
    </form>
-   <button class="button" onclick="document.location = './result'">Show Graphs</button>
 </div>
-
 
 {% endblock %}

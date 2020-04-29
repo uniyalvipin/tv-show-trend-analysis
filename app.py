@@ -15,8 +15,20 @@ def home():
     return render_template('index.html')
 
 
-@app.route('/', methods=['POST', 'GET'])
+@app.route('/')
 def main():
+    return render_template('index.html',showslist=dirwalk.showslist())
+
+
+# favicon route
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static'),
+                               'favicon.ico', mimetype='image/vnd.microsoft.icon')
+
+
+@app.route('/result', methods=['POST', 'GET'])
+def result():
     if request.method == 'POST':
         global query
         global resultlist
@@ -36,18 +48,6 @@ def main():
                 resultlist.append('Neutral')
             else:
                 resultlist.append('Negative')
-    return render_template('index.html')
-
-
-# favicon route
-@app.route('/favicon.ico')
-def favicon():
-    return send_from_directory(os.path.join(app.root_path, 'static'),
-                               'favicon.ico', mimetype='image/vnd.microsoft.icon')
-
-
-@app.route('/result', methods=['POST', 'GET'])
-def result():
     return render_template("result.html", query=query, tweets_count=resultlist[0], avgpol=resultlist[1],
                            avgsub=resultlist[2], pol=resultlist[3])
 

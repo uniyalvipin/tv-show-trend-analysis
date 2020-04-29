@@ -1,5 +1,11 @@
 {% extends 'base.html' %}
 
+{% block navcontents %}
+    <a href="./">Home</a>
+    <a href="./list">List</a>
+    <a href="./about">Description</a>
+{% endblock %}
+
 {% block head %}
 
 <link href="{{ url_for('static', filename='preloader.css') }}" rel="stylesheet">
