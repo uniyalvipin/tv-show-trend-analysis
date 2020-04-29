@@ -4,3 +4,4 @@ tweepy
 textblob
 googletrans
 emot
+requests
