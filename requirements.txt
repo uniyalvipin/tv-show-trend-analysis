@@ -1,4 +1,5 @@
 gunicorn
+flask
 nltk
 pandas
 tweepy
